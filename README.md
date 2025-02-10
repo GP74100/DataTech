@@ -55,3 +55,6 @@ schema.sql → Script to create the database.
 queries.sql → SQL queries used for analysis.
 📑 Query Results: Stored in an Excel file (.xlsx).
 🎤 Presentation: PowerPoint/PDF summarizing key insights.
+
+![Screenshot 2025-02-10 152902](https://github.com/user-attachments/assets/26e2c6ae-91ce-4714-85b5-f281d25ca515)
+
