@@ -1,0 +1,112 @@
+-- 1- a
+SELECT CONCAT(First_Name, ' ', Surname) AS Full_Name, StreetAddress
+FROM companydata_cleaned;
+
+-- 2-b
+SELECT d.dept_name, COUNT(*) AS Number_of_Employees
+FROM departments_cleaned d
+LEFT JOIN job_profile_cleaned jp ON d.dept_id = jp.department_id
+LEFT JOIN Companydata_cleaned e ON jp.EmployeeID = e.EmployeeID
+GROUP BY d.dept_name;
+
+-- 3-c
+SELECT Gender, COUNT(EmployeeID) AS Number_of_Employees
+FROM employees_perso_cleaned
+GROUP BY Gender;
+
+-- 4-d
+SELECT Job_title
+FROM job_title_cleaned
+ORDER BY Job_title
+LIMIT 5;
+
+-- 5-e
+SELECT EmployeeID, Bonus_Percentage
+FROM job_profile_cleaned
+WHERE Bonus_Percentage > 0.1;
+
+-- 6- f
+SELECT l.Level, COUNT(jp.EmployeeID) AS Number_of_Employees
+FROM levels_cleaned l
+LEFT JOIN job_profile_cleaned jp ON l.level_id = jp.level_id
+GROUP BY l.Level;
+
+-- 7-g
+SELECT First_Name,Surname, Start_Date
+FROM Companydata_cleaned
+WHERE Start_Date > '2022-01-01';
+
+
+-- 8-h
+SELECT c.EmployeeID, CONCAT(c.First_Name, ' ', c.Surname) AS Full_Name,jp.Job_Profile, d.dept_name, l.Level
+FROM Companydata_cleaned c
+INNER JOIN job_profile_cleaned jp ON c.EmployeeID = jp.EmployeeID
+INNER JOIN departments_cleaned d ON jp.department_id = d.dept_id
+INNER JOIN levels_cleaned l ON jp.level_id = l.level_id;
+
+-- 9-i
+SELECT EmployeeID, First_Name, Surname
+FROM Companydata_cleaned
+WHERE Termination_Date = '2100-12-12'; -- ou where active_status = ' Active'
+
+SELECT COUNT(*) AS Number_of_Active_Employees
+FROM companydata_cleaned
+WHERE Active_Status = 'Active'
+-- 2413 employés
+
+-- 10-j
+SELECT d.dept_name, 
+COUNT(CASE WHEN c.Termination_Date <> '2100-12-12' THEN c.EmployeeID END) / COUNT(c.EmployeeID) AS Turnover_Rate
+FROM departments_cleaned d
+INNER JOIN job_profile_cleaned jp ON d.dept_id = jp.department_id
+INNER JOIN Companydata_cleaned c ON jp.EmployeeID = c.EmployeeID
+GROUP BY d.dept_name;
+
+
+-- 11-k
+SELECT 
+    c.EmployeeID,
+    c.First_Name,
+    c.Surname,
+    DATEDIFF(IFNULL(c.Termination_Date, CURDATE()), c.Start_Date) AS Nombre_Jours_Service
+FROM 
+    companydata_cleaned c
+
+WHERE Termination_Date <> '2100-12-12';
+    
+    
+-- 12-l
+SELECT 
+    d.dept_name,
+    c.First_Name,
+    c.Surname,
+    (j.Compensation + (j.Compensation * j.Bonus_Percentage)) AS Montant_Total_Compensation --- 
+FROM 
+    departments_cleaned d
+JOIN 
+    Job_profile_cleaned j ON d.dept_id = j.department_id
+JOIN 
+    companydata_cleaned c ON j.EmployeeID = c.EmployeeID
+ORDER BY dept_name;
+
+----- clés:
+
+
+
+Table companydata_cleaned
+Clé primaire : EmployeeID
+Table departments_cleaned
+Clé primaire : dept_id
+Table employees_perso_cleaned
+Clé primaire : EmployeeID
+Clé étrangère : EmployeeID référencée à companydata_cleaned(EmployeeID)
+Table Job_profile_cleaned
+Clé primaire : id
+Clés étrangères :
+EmployeeID référencée à companydata_cleaned(EmployeeID)
+department_id référencée à departments_cleaned(dept_id)
+level_id référencée à Levels_cleaned(level_id)
+Table Job_title_cleaned
+Clé primaire : Job_Profile
+Table Levels_cleaned
+Clé primaire : level_id

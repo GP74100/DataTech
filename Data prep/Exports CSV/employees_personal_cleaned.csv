@@ -1,0 +1,4969 @@
+EmployeeID,Gender,Disability,Education
+100001,F,0,Undergraduate
+100002,M,1,Undergraduate
+100003,F,0,Undergraduate
+100004,M,0,Undergraduate
+100005,M,0,Undergraduate
+100006,M,0,Undergraduate
+100007,M,0,Some College
+100008,F,0,High School
+100009,M,0,Undergraduate
+100010,M,0,PhD
+100011,M,1,High School
+100012,M,0,Undergraduate
+100013,M,0,High School
+100014,F,0,Undergraduate
+100015,M,0,High School
+100016,M,0,Undergraduate
+100017,F,0,Undergraduate
+100018,F,0,Undergraduate
+100019,M,0,Undergraduate
+100020,M,0,Undergraduate
+100021,F,1,Undergraduate
+100022,F,0,High School
+100023,M,0,PhD
+100024,F,0,High School
+100025,F,0,Undergraduate
+100026,F,0,Graduate
+100027,F,0,Undergraduate
+100028,F,0,Undergraduate
+100029,M,0,High School
+100030,M,0,Undergraduate
+100031,M,1,Undergraduate
+100032,F,0,Undergraduate
+100033,F,0,PhD
+100034,M,0,High School
+100035,F,0,Undergraduate
+100036,F,0,High School
+100037,F,0,Some College
+100038,F,0,High School
+100039,F,0,Undergraduate
+100040,F,0,Undergraduate
+100041,F,0,Undergraduate
+100042,M,0,Undergraduate
+100043,M,0,High School
+100044,M,0,Undergraduate
+100045,M,0,Undergraduate
+100046,F,0,Undergraduate
+100047,F,0,Undergraduate
+100048,M,0,Undergraduate
+100049,F,0,Undergraduate
+100050,M,0,Undergraduate
+100051,M,0,Undergraduate
+100052,F,0,Undergraduate
+100053,M,0,Undergraduate
+100054,M,0,Undergraduate
+100055,M,0,Undergraduate
+100056,F,0,Undergraduate
+100057,M,0,Undergraduate
+100058,F,0,Undergraduate
+100059,F,0,High School
+100060,M,0,Undergraduate
+100061,F,0,Undergraduate
+100062,M,0,Undergraduate
+100063,M,0,Undergraduate
+100064,M,0,Undergraduate
+100065,M,0,High School
+100066,M,0,Undergraduate
+100067,M,0,Some College
+100068,M,0,Undergraduate
+100069,M,0,High School
+100070,F,0,Undergraduate
+100071,F,0,High School
+100072,M,0,Undergraduate
+100073,M,0,Graduate
+100074,M,0,High School
+100075,M,0,Undergraduate
+100076,F,0,Undergraduate
+100077,F,0,Undergraduate
+100078,M,0,Undergraduate
+100079,F,0,Graduate
+100080,M,0,PhD
+100081,M,0,Undergraduate
+100082,F,0,Undergraduate
+100083,F,0,Undergraduate
+100084,M,0,Undergraduate
+100085,M,1,Undergraduate
+100086,M,0,Undergraduate
+100087,F,0,High School
+100088,F,0,Undergraduate
+100089,F,0,Undergraduate
+100090,F,0,High School
+100091,F,0,Undergraduate
+100092,M,0,High School
+100093,M,0,Undergraduate
+100094,F,0,Undergraduate
+100095,M,0,High School
+100096,F,0,Undergraduate
+100097,F,1,Undergraduate
+100098,M,0,High School
+100099,M,0,Undergraduate
+100100,F,0,High School
+100101,M,0,High School
+100102,F,0,Undergraduate
+100103,F,0,Undergraduate
+100104,M,0,Undergraduate
+100105,M,0,Undergraduate
+100106,F,0,Graduate
+100107,M,0,Undergraduate
+100108,M,0,Undergraduate
+100109,F,0,Undergraduate
+100110,F,0,High School
+100111,F,0,Undergraduate
+100112,F,1,Undergraduate
+100113,M,0,High School
+100114,F,0,Undergraduate
+100115,M,0,Some College
+100116,F,0,High School
+100117,F,0,PhD
+100118,F,0,Undergraduate
+100119,M,0,Undergraduate
+100120,F,0,Undergraduate
+100121,M,0,Undergraduate
+100122,M,0,Undergraduate
+100123,F,0,Undergraduate
+100124,F,0,Undergraduate
+100125,M,0,Undergraduate
+100126,M,0,PhD
+100127,F,0,Undergraduate
+100128,F,0,Undergraduate
+100129,F,0,Undergraduate
+100130,M,0,Undergraduate
+100131,M,0,High School
+100132,M,0,Undergraduate
+100133,F,0,High School
+100134,M,0,Undergraduate
+100135,F,0,Undergraduate
+100136,M,0,Undergraduate
+100137,F,0,High School
+100138,F,0,Undergraduate
+100139,F,0,Undergraduate
+100140,F,0,Undergraduate
+100141,M,0,Some College
+100142,M,0,Undergraduate
+100143,M,1,Undergraduate
+100144,F,0,Undergraduate
+100145,M,0,Some College
+100146,F,0,Undergraduate
+100147,F,0,High School
+100148,F,0,Undergraduate
+100149,F,0,Undergraduate
+100150,F,0,Undergraduate
+100151,F,0,Undergraduate
+100152,M,0,Undergraduate
+100153,M,0,Undergraduate
+100154,F,0,Undergraduate
+100155,M,0,Undergraduate
+100156,F,1,Undergraduate
+100157,M,0,Some College
+100158,M,0,Some College
+100159,M,0,Undergraduate
+100160,M,0,Undergraduate
+100161,M,0,Undergraduate
+100162,F,0,High School
+100163,F,0,Undergraduate
+100164,F,0,Undergraduate
+100165,M,0,Undergraduate
+100166,M,0,Undergraduate
+100167,M,0,Undergraduate
+100168,M,0,Undergraduate
+100169,F,0,High School
+100170,M,0,Undergraduate
+100171,M,0,High School
+100172,M,1,PhD
+100173,M,0,High School
+100174,M,0,Undergraduate
+100175,F,0,Undergraduate
+100176,M,0,High School
+100177,M,0,Undergraduate
+100178,M,0,Undergraduate
+100179,M,0,Undergraduate
+100180,F,0,Graduate
+100181,M,0,Undergraduate
+100182,F,0,Undergraduate
+100183,M,0,Graduate
+100184,M,0,High School
+100185,M,0,Undergraduate
+100186,M,0,Graduate
+100187,F,0,Undergraduate
+100188,F,0,Some College
+100189,M,0,Undergraduate
+100190,F,1,Graduate
+100191,F,0,Undergraduate
+100192,F,0,Undergraduate
+100193,M,0,Undergraduate
+100194,F,0,Undergraduate
+100195,F,0,Undergraduate
+100196,F,0,Undergraduate
+100197,M,0,Undergraduate
+100198,M,0,Undergraduate
+100199,F,0,Undergraduate
+100200,F,0,Undergraduate
+100201,M,0,Undergraduate
+100202,M,0,Undergraduate
+100203,M,0,PhD
+100204,M,0,Some College
+100205,M,0,Undergraduate
+100206,F,0,High School
+100207,M,0,Undergraduate
+100208,M,0,Some College
+100209,F,0,Undergraduate
+100210,F,0,Undergraduate
+100211,F,0,Undergraduate
+100212,F,0,High School
+100213,M,0,Undergraduate
+100214,F,0,Undergraduate
+100215,F,0,High School
+100216,M,1,Undergraduate
+100217,F,0,Undergraduate
+100218,M,0,Undergraduate
+100219,F,1,Undergraduate
+100220,M,1,Undergraduate
+100221,F,0,Undergraduate
+100222,F,0,High School
+100223,F,0,High School
+100224,M,0,Undergraduate
+100225,F,0,Graduate
+100226,F,0,Undergraduate
+100227,F,0,Undergraduate
+100228,M,0,High School
+100229,F,0,Undergraduate
+100230,F,0,PhD
+100231,M,1,Undergraduate
+100232,F,0,Undergraduate
+100233,M,0,PhD
+100234,F,0,Undergraduate
+100235,F,1,Undergraduate
+100236,F,0,Undergraduate
+100237,M,0,Undergraduate
+100238,M,0,Some College
+100239,F,0,High School
+100240,M,0,Undergraduate
+100241,M,0,Undergraduate
+100242,M,0,High School
+100243,F,0,High School
+100244,M,0,Undergraduate
+100245,M,0,High School
+100246,M,0,Undergraduate
+100247,F,0,High School
+100248,F,0,Undergraduate
+100249,F,0,Undergraduate
+100250,F,0,Undergraduate
+100251,F,0,Undergraduate
+100252,F,0,Some College
+100253,M,0,Graduate
+100254,F,0,Undergraduate
+100255,F,0,Undergraduate
+100256,F,0,Undergraduate
+100257,M,0,Undergraduate
+100258,M,0,High School
+100259,F,0,Graduate
+100260,F,0,Undergraduate
+100261,M,0,Graduate
+100262,F,0,Graduate
+100263,F,0,High School
+100264,M,0,Undergraduate
+100265,M,0,Undergraduate
+100266,M,0,High School
+100267,M,0,Undergraduate
+100268,M,0,Undergraduate
+100269,M,0,Undergraduate
+100270,M,0,Undergraduate
+100271,F,0,Undergraduate
+100272,F,0,Undergraduate
+100273,M,0,High School
+100274,M,0,Undergraduate
+100275,F,0,High School
+100276,M,0,Graduate
+100277,F,0,Undergraduate
+100278,F,0,Undergraduate
+100279,M,0,High School
+100280,M,0,Some College
+100281,F,0,Undergraduate
+100282,F,0,High School
+100283,F,0,High School
+100284,M,0,Undergraduate
+100285,M,0,Undergraduate
+100286,M,0,Graduate
+100287,M,0,High School
+100288,M,0,Some College
+100289,F,0,High School
+100290,M,0,Undergraduate
+100291,F,0,High School
+100292,F,0,High School
+100293,M,0,Some College
+100294,F,0,Undergraduate
+100295,F,0,Undergraduate
+100296,F,1,High School
+100297,F,0,Undergraduate
+100298,F,0,Undergraduate
+100299,M,0,Undergraduate
+100300,F,1,Undergraduate
+100301,M,0,High School
+100302,M,0,Undergraduate
+100303,F,0,Undergraduate
+100304,F,0,High School
+100305,M,0,Undergraduate
+100306,F,0,Undergraduate
+100307,M,1,Undergraduate
+100308,M,0,Undergraduate
+100309,F,0,Some College
+100310,M,0,High School
+100311,M,0,Some College
+100312,F,0,Undergraduate
+100313,M,0,Graduate
+100314,M,0,Undergraduate
+100315,M,0,High School
+100316,F,0,Undergraduate
+100317,F,0,Undergraduate
+100318,F,0,Undergraduate
+100319,M,0,Undergraduate
+100320,M,0,High School
+100321,M,0,Undergraduate
+100322,M,0,High School
+100323,M,0,Undergraduate
+100324,F,1,Undergraduate
+100325,F,0,Undergraduate
+100326,F,0,Undergraduate
+100327,M,0,High School
+100328,F,1,Undergraduate
+100329,M,0,Undergraduate
+100330,M,0,Undergraduate
+100331,M,0,Undergraduate
+100332,M,0,Undergraduate
+100333,F,0,High School
+100334,F,0,Undergraduate
+100335,F,0,Undergraduate
+100336,F,0,Undergraduate
+100337,M,0,Some College
+100338,F,0,Undergraduate
+100339,F,0,Undergraduate
+100340,F,0,Undergraduate
+100341,M,0,Undergraduate
+100342,M,0,Undergraduate
+100343,M,0,Undergraduate
+100344,M,0,High School
+100345,F,1,Undergraduate
+100346,F,0,High School
+100347,M,0,High School
+100348,M,0,High School
+100349,F,0,Graduate
+100350,M,0,Undergraduate
+100351,F,0,High School
+100352,M,0,High School
+100353,F,0,Undergraduate
+100354,M,0,Undergraduate
+100355,F,0,Undergraduate
+100356,M,0,Undergraduate
+100357,M,0,Undergraduate
+100358,M,0,PhD
+100359,F,0,Undergraduate
+100360,M,0,Some College
+100361,M,0,High School
+100362,M,0,Undergraduate
+100363,M,0,Some College
+100364,M,0,Graduate
+100365,M,0,Undergraduate
+100366,F,0,Undergraduate
+100367,M,0,Undergraduate
+100368,F,0,Some College
+100369,F,0,PhD
+100370,F,0,Undergraduate
+100371,M,0,Undergraduate
+100372,F,0,Undergraduate
+100373,M,0,High School
+100374,F,0,Undergraduate
+100375,F,0,High School
+100376,M,0,Undergraduate
+100377,M,0,Undergraduate
+100378,F,0,Some College
+100379,F,0,Some College
+100380,F,0,Undergraduate
+100381,F,0,Undergraduate
+100382,M,1,High School
+100383,M,0,PhD
+100384,F,0,Undergraduate
+100385,M,0,Undergraduate
+100386,M,0,Undergraduate
+100387,F,0,High School
+100388,M,0,High School
+100389,F,0,Undergraduate
+100390,F,0,Undergraduate
+100391,F,0,Graduate
+100392,M,0,Undergraduate
+100393,F,0,Undergraduate
+100394,M,0,High School
+100395,M,0,Undergraduate
+100396,F,0,Undergraduate
+100397,F,0,Undergraduate
+100398,F,0,Undergraduate
+100399,M,0,Undergraduate
+100400,M,0,Undergraduate
+100401,M,1,Undergraduate
+100402,F,0,Some College
+100403,M,0,Undergraduate
+100404,M,0,Undergraduate
+100405,F,0,Undergraduate
+100406,F,0,Undergraduate
+100407,F,0,High School
+100408,M,0,High School
+100409,M,1,Undergraduate
+100410,F,0,Undergraduate
+100411,F,0,Undergraduate
+100412,F,0,High School
+100413,F,0,Undergraduate
+100414,M,0,Undergraduate
+100415,M,0,Undergraduate
+100416,M,0,Undergraduate
+100417,M,0,Undergraduate
+100418,M,0,High School
+100419,F,1,High School
+100420,M,1,Graduate
+100421,M,0,Undergraduate
+100422,F,0,Graduate
+100423,F,0,High School
+100424,F,0,Undergraduate
+100425,F,0,High School
+100426,F,0,High School
+100427,M,0,Undergraduate
+100428,M,0,Undergraduate
+100429,M,0,Undergraduate
+100430,F,0,Graduate
+100431,F,0,Undergraduate
+100432,M,0,Undergraduate
+100433,M,0,Undergraduate
+100434,F,0,Undergraduate
+100435,M,0,Some College
+100436,F,0,Undergraduate
+100437,F,0,Undergraduate
+100438,F,0,Undergraduate
+100439,F,0,High School
+100440,M,0,Undergraduate
+100441,F,0,High School
+100442,M,0,Some College
+100443,F,0,High School
+100444,M,0,High School
+100445,M,0,Undergraduate
+100446,F,0,High School
+100447,F,0,Undergraduate
+100448,M,0,Undergraduate
+100449,M,0,Undergraduate
+100450,M,0,High School
+100451,F,0,Graduate
+100452,F,0,Undergraduate
+100453,F,0,Undergraduate
+100454,M,0,Undergraduate
+100455,F,0,Undergraduate
+100456,M,0,Undergraduate
+100457,F,0,Undergraduate
+100458,F,0,Some College
+100459,F,0,Undergraduate
+100460,F,0,Undergraduate
+100461,F,0,Some College
+100462,F,0,High School
+100463,M,1,Undergraduate
+100464,M,0,Undergraduate
+100465,F,0,Undergraduate
+100466,F,0,Graduate
+100467,M,0,Undergraduate
+100468,M,0,Undergraduate
+100469,M,0,Undergraduate
+100470,F,0,Graduate
+100471,F,0,Undergraduate
+100472,F,0,Graduate
+100473,M,0,Undergraduate
+100474,M,0,High School
+100475,F,0,Undergraduate
+100476,M,0,Undergraduate
+100477,M,0,Undergraduate
+100478,F,0,Undergraduate
+100479,M,0,Undergraduate
+100480,M,0,Undergraduate
+100481,F,0,Undergraduate
+100482,F,0,Some College
+100483,F,0,Undergraduate
+100484,F,0,High School
+100485,M,0,Undergraduate
+100486,F,0,Undergraduate
+100487,M,0,Undergraduate
+100488,F,0,Undergraduate
+100489,F,0,Undergraduate
+100490,M,0,Undergraduate
+100491,M,0,High School
+100492,M,0,Undergraduate
+100493,M,0,Undergraduate
+100494,F,0,Undergraduate
+100495,F,0,Some College
+100496,F,1,Undergraduate
+100497,M,0,High School
+100498,M,0,High School
+100499,F,1,High School
+100500,F,0,High School
+100501,F,0,Undergraduate
+100502,F,0,Graduate
+100503,F,0,High School
+100504,F,0,Graduate
+100505,F,0,Undergraduate
+100506,F,0,High School
+100507,M,0,Undergraduate
+100508,F,0,Undergraduate
+100509,M,0,Undergraduate
+100510,M,0,Undergraduate
+100511,M,0,Some College
+100512,F,0,Undergraduate
+100513,M,0,High School
+100514,F,0,Undergraduate
+100515,M,0,Some College
+100516,M,0,High School
+100517,M,0,Undergraduate
+100518,F,0,Undergraduate
+100519,M,0,Undergraduate
+100520,F,0,Undergraduate
+100521,F,1,Undergraduate
+100522,F,0,Undergraduate
+100523,F,0,Undergraduate
+100524,F,0,Undergraduate
+100525,F,0,Undergraduate
+100526,M,0,Undergraduate
+100527,M,0,Undergraduate
+100528,F,0,Undergraduate
+100529,F,0,Some College
+100530,F,0,Undergraduate
+100531,F,0,Undergraduate
+100532,F,0,High School
+100533,F,0,Undergraduate
+100534,F,0,Undergraduate
+100535,M,0,Some College
+100536,F,0,High School
+100537,M,0,Some College
+100538,M,0,Undergraduate
+100539,F,0,High School
+100540,M,0,Some College
+100541,F,0,Undergraduate
+100542,M,0,Graduate
+100543,M,0,Undergraduate
+100544,M,0,Undergraduate
+100545,F,0,Graduate
+100546,F,0,Undergraduate
+100547,M,0,Some College
+100548,F,0,Undergraduate
+100549,M,0,Some College
+100550,F,0,Undergraduate
+100551,F,0,Undergraduate
+100552,F,0,Undergraduate
+100553,M,0,Undergraduate
+100554,F,0,Undergraduate
+100555,F,0,Undergraduate
+100556,M,0,Undergraduate
+100557,F,0,Undergraduate
+100558,M,1,Undergraduate
+100559,F,0,Graduate
+100560,F,0,PhD
+100561,M,0,High School
+100562,M,0,Undergraduate
+100563,F,0,High School
+100564,M,0,Undergraduate
+100565,M,0,Undergraduate
+100566,M,0,Undergraduate
+100567,M,0,Undergraduate
+100568,F,0,Undergraduate
+100569,M,0,Undergraduate
+100570,M,0,Undergraduate
+100571,F,0,Some College
+100572,M,0,Undergraduate
+100573,F,0,High School
+100574,M,0,Undergraduate
+100575,M,0,Undergraduate
+100576,F,0,Undergraduate
+100577,F,0,Undergraduate
+100578,F,0,High School
+100579,F,0,Undergraduate
+100580,F,0,High School
+100581,M,0,Undergraduate
+100582,M,0,Some College
+100583,F,0,Undergraduate
+100584,M,0,High School
+100585,M,0,High School
+100586,F,0,High School
+100587,F,0,Undergraduate
+100588,M,0,High School
+100589,F,0,Undergraduate
+100590,F,0,Undergraduate
+100591,M,0,Undergraduate
+100592,F,0,Undergraduate
+100593,F,0,Undergraduate
+100594,M,0,Some College
+100595,M,0,Undergraduate
+100596,F,0,High School
+100597,M,0,Undergraduate
+100598,M,0,Undergraduate
+100599,F,0,Undergraduate
+100600,M,0,High School
+100601,F,0,Undergraduate
+100602,M,0,Undergraduate
+100603,M,0,High School
+100604,M,0,Graduate
+100605,M,0,Undergraduate
+100606,F,0,Undergraduate
+100607,M,0,Undergraduate
+100608,M,0,Undergraduate
+100609,F,0,Some College
+100610,F,0,Undergraduate
+100611,M,0,Undergraduate
+100612,F,0,Undergraduate
+100613,M,0,Some College
+100614,M,0,High School
+100615,M,0,Undergraduate
+100616,F,0,Undergraduate
+100617,M,0,Undergraduate
+100618,M,0,Undergraduate
+100619,M,0,Undergraduate
+100620,F,0,Graduate
+100621,F,0,High School
+100622,M,0,Undergraduate
+100623,F,0,Undergraduate
+100624,M,0,Graduate
+100625,M,0,Undergraduate
+100626,F,0,Undergraduate
+100627,F,0,Undergraduate
+100628,F,1,Undergraduate
+100629,M,0,High School
+100630,F,0,Undergraduate
+100631,F,0,Undergraduate
+100632,F,0,Undergraduate
+100633,M,0,Graduate
+100634,M,1,Undergraduate
+100635,F,0,Some College
+100636,M,0,Undergraduate
+100637,F,0,Undergraduate
+100638,F,0,Undergraduate
+100639,F,0,Undergraduate
+100640,F,0,Undergraduate
+100641,F,0,Undergraduate
+100642,F,0,High School
+100643,M,0,Undergraduate
+100644,M,0,Undergraduate
+100645,F,0,High School
+100646,F,0,Undergraduate
+100647,M,0,Undergraduate
+100648,M,0,Undergraduate
+100649,F,0,Undergraduate
+100650,M,0,Undergraduate
+100651,M,0,Undergraduate
+100652,F,0,Undergraduate
+100653,F,0,Undergraduate
+100654,F,0,Undergraduate
+100655,M,0,Undergraduate
+100656,F,0,Graduate
+100657,M,0,Undergraduate
+100658,M,0,High School
+100659,M,0,Undergraduate
+100660,M,0,Undergraduate
+100661,M,0,Undergraduate
+100662,M,0,Undergraduate
+100663,F,0,Undergraduate
+100664,M,0,Undergraduate
+100665,F,0,Undergraduate
+100666,M,0,Undergraduate
+100667,F,0,Undergraduate
+100668,F,0,Undergraduate
+100669,M,0,Undergraduate
+100670,M,0,Undergraduate
+100671,M,0,Undergraduate
+100672,F,0,Undergraduate
+100673,M,0,High School
+100674,M,0,Graduate
+100675,F,0,High School
+100676,F,0,Some College
+100677,M,0,Graduate
+100678,M,0,Graduate
+100679,M,0,Undergraduate
+100680,M,0,Undergraduate
+100681,M,0,High School
+100682,F,0,Some College
+100683,M,0,Undergraduate
+100684,F,0,High School
+100685,M,0,Undergraduate
+100686,M,0,Undergraduate
+100687,M,0,High School
+100688,M,0,Undergraduate
+100689,M,0,PhD
+100690,M,0,High School
+100691,M,0,Graduate
+100692,M,0,Undergraduate
+100693,M,0,Undergraduate
+100694,M,0,Some College
+100695,M,0,Undergraduate
+100696,M,0,Undergraduate
+100697,F,0,Undergraduate
+100698,F,0,Graduate
+100699,F,0,High School
+100700,F,0,Undergraduate
+100701,M,0,High School
+100702,F,0,Undergraduate
+100703,F,0,Undergraduate
+100704,M,0,Undergraduate
+100705,M,1,Graduate
+100706,M,0,Undergraduate
+100707,M,0,Undergraduate
+100708,M,0,Undergraduate
+100709,F,0,Undergraduate
+100710,M,0,Undergraduate
+100711,M,0,Undergraduate
+100712,F,0,Undergraduate
+100713,M,0,Some College
+100714,M,0,Undergraduate
+100715,F,0,Undergraduate
+100716,F,0,Undergraduate
+100717,F,0,High School
+100718,M,0,Undergraduate
+100719,F,0,Undergraduate
+100720,M,0,High School
+100721,M,0,High School
+100722,M,0,High School
+100723,F,0,Undergraduate
+100724,F,0,High School
+100725,F,0,Undergraduate
+100726,M,0,PhD
+100727,F,0,Undergraduate
+100728,M,0,Undergraduate
+100729,F,0,Undergraduate
+100730,M,0,Undergraduate
+100731,M,0,High School
+100732,M,0,Some College
+100733,F,0,Undergraduate
+100734,F,0,Undergraduate
+100735,M,0,Undergraduate
+100736,F,0,Some College
+100737,F,0,Undergraduate
+100738,M,0,Undergraduate
+100739,M,0,Undergraduate
+100740,F,0,Undergraduate
+100741,M,0,High School
+100742,F,0,Undergraduate
+100743,F,0,High School
+100744,M,0,Undergraduate
+100745,M,0,High School
+100746,F,0,Undergraduate
+100747,M,0,Graduate
+100748,M,0,Undergraduate
+100749,M,0,High School
+100750,F,0,Undergraduate
+100751,M,0,Graduate
+100752,F,0,Undergraduate
+100753,F,0,High School
+100754,F,0,Undergraduate
+100755,F,0,Undergraduate
+100756,M,0,Graduate
+100757,F,0,Undergraduate
+100758,F,0,PhD
+100759,M,0,Undergraduate
+100760,F,1,Undergraduate
+100761,M,0,Undergraduate
+100762,F,0,Undergraduate
+100763,M,0,High School
+100764,M,0,Undergraduate
+100765,F,0,Undergraduate
+100766,M,0,Undergraduate
+100767,M,0,High School
+100768,M,0,High School
+100769,M,0,High School
+100770,M,0,High School
+100771,M,0,Undergraduate
+100772,M,1,Undergraduate
+100773,M,0,Undergraduate
+100774,F,0,Graduate
+100775,F,0,Undergraduate
+100776,F,0,High School
+100777,M,0,Undergraduate
+100778,F,0,Undergraduate
+100779,F,0,Undergraduate
+100780,F,0,High School
+100781,M,0,High School
+100782,F,0,Undergraduate
+100783,F,0,Undergraduate
+100784,M,1,Undergraduate
+100785,F,0,High School
+100786,F,0,Undergraduate
+100787,F,0,Undergraduate
+100788,M,0,High School
+100789,M,0,Undergraduate
+100790,F,0,High School
+100791,M,0,High School
+100792,M,0,Undergraduate
+100793,M,0,Undergraduate
+100794,F,0,Undergraduate
+100795,M,0,Undergraduate
+100796,M,0,Graduate
+100797,M,0,High School
+100798,M,0,Undergraduate
+100799,M,0,Undergraduate
+100800,M,0,Undergraduate
+100801,M,0,Undergraduate
+100802,M,1,Undergraduate
+100803,F,0,Undergraduate
+100804,F,0,Some College
+100805,F,0,Undergraduate
+100806,M,0,Undergraduate
+100807,M,0,Undergraduate
+100808,F,0,High School
+100809,M,0,PhD
+100810,F,0,Undergraduate
+100811,M,0,PhD
+100812,F,0,Undergraduate
+100813,F,0,High School
+100814,M,0,Undergraduate
+100815,F,0,Undergraduate
+100816,F,0,Undergraduate
+100817,M,0,Undergraduate
+100818,M,0,Undergraduate
+100819,F,0,Graduate
+100820,M,0,Undergraduate
+100821,M,0,Undergraduate
+100822,F,0,Undergraduate
+100823,F,0,Undergraduate
+100824,M,0,Undergraduate
+100825,M,0,Undergraduate
+100826,M,0,High School
+100827,M,1,Undergraduate
+100828,M,0,High School
+100829,F,0,Undergraduate
+100830,M,0,Undergraduate
+100831,M,0,Undergraduate
+100832,M,0,Undergraduate
+100833,M,0,Undergraduate
+100834,F,0,High School
+100835,F,0,High School
+100836,M,0,Undergraduate
+100837,M,0,Undergraduate
+100838,M,0,Undergraduate
+100839,F,0,High School
+100840,F,0,Undergraduate
+100841,M,0,Undergraduate
+100842,F,0,Undergraduate
+100843,F,0,Undergraduate
+100844,F,0,High School
+100845,M,0,Undergraduate
+100846,M,0,High School
+100847,F,0,Undergraduate
+100848,F,0,Undergraduate
+100849,M,0,Undergraduate
+100850,F,0,Undergraduate
+100851,M,0,Undergraduate
+100852,M,0,Undergraduate
+100853,F,0,Graduate
+100854,F,0,Undergraduate
+100855,F,0,Graduate
+100856,F,0,Graduate
+100857,F,0,Undergraduate
+100858,F,0,Graduate
+100859,M,0,Undergraduate
+100860,M,0,High School
+100861,M,0,Undergraduate
+100862,F,0,Undergraduate
+100863,M,0,Some College
+100864,M,0,Graduate
+100865,M,0,PhD
+100866,F,0,Undergraduate
+100867,F,0,High School
+100868,F,0,Undergraduate
+100869,F,0,Graduate
+100870,M,0,High School
+100871,F,0,Some College
+100872,M,0,High School
+100873,M,0,Undergraduate
+100874,F,0,PhD
+100875,F,0,PhD
+100876,F,0,High School
+100877,M,0,Undergraduate
+100878,F,0,PhD
+100879,F,0,Some College
+100880,M,0,Undergraduate
+100881,F,0,Undergraduate
+100882,M,0,Undergraduate
+100883,M,0,Undergraduate
+100884,F,0,Undergraduate
+100885,M,0,High School
+100886,F,0,Undergraduate
+100887,M,0,High School
+100888,M,0,Undergraduate
+100889,M,0,Undergraduate
+100890,M,0,Undergraduate
+100891,F,0,Undergraduate
+100892,F,0,High School
+100893,F,0,Undergraduate
+100894,M,0,High School
+100895,F,0,High School
+100896,M,0,Undergraduate
+100897,F,0,Undergraduate
+100898,M,0,Undergraduate
+100899,M,0,Undergraduate
+100900,F,0,Undergraduate
+100901,M,0,Graduate
+100902,F,0,Undergraduate
+100903,M,0,High School
+100904,M,0,High School
+100905,M,0,High School
+100906,M,0,Undergraduate
+100907,M,1,Undergraduate
+100908,F,0,High School
+100909,F,0,High School
+100910,M,0,High School
+100911,F,0,Undergraduate
+100912,M,0,Undergraduate
+100913,F,0,High School
+100914,M,0,Graduate
+100915,M,0,Undergraduate
+100916,M,0,Undergraduate
+100917,F,0,PhD
+100918,M,0,High School
+100919,M,0,Undergraduate
+100920,F,0,Undergraduate
+100921,M,1,Some College
+100922,F,0,Undergraduate
+100923,M,0,Undergraduate
+100924,F,0,High School
+100925,M,0,Undergraduate
+100926,M,0,Undergraduate
+100927,F,0,High School
+100928,M,0,Undergraduate
+100929,F,0,Undergraduate
+100930,F,0,Undergraduate
+100931,F,0,Graduate
+100932,F,0,Undergraduate
+100933,F,0,Some College
+100934,F,0,Undergraduate
+100935,M,0,Undergraduate
+100936,F,0,High School
+100937,F,0,Undergraduate
+100938,M,0,Undergraduate
+100939,F,0,Some College
+100940,M,0,Undergraduate
+100941,F,0,Undergraduate
+100942,M,0,Undergraduate
+100943,F,0,Undergraduate
+100944,M,0,Undergraduate
+100945,M,0,Some College
+100946,M,0,Undergraduate
+100947,M,0,Undergraduate
+100948,F,0,Some College
+100949,F,0,Undergraduate
+100950,F,0,Undergraduate
+100951,F,0,High School
+100952,M,0,Some College
+100953,F,0,Undergraduate
+100954,M,0,Undergraduate
+100955,F,0,Some College
+100956,M,0,Undergraduate
+100957,M,0,Undergraduate
+100958,F,0,PhD
+100959,F,0,Undergraduate
+100960,F,0,Undergraduate
+100961,F,0,Graduate
+100962,F,0,Undergraduate
+100963,M,0,Undergraduate
+100964,M,0,High School
+100965,M,0,High School
+100966,F,1,Undergraduate
+100967,F,0,Some College
+100968,F,0,Undergraduate
+100969,F,0,Undergraduate
+100970,F,0,Some College
+100971,F,0,Undergraduate
+100972,M,0,Undergraduate
+100973,M,0,Undergraduate
+100974,M,0,Undergraduate
+100975,M,0,Undergraduate
+100976,M,1,Undergraduate
+100977,F,0,Undergraduate
+100978,F,0,PhD
+100979,F,0,Graduate
+100980,M,0,Undergraduate
+100981,F,0,Undergraduate
+100982,M,1,Undergraduate
+100983,M,0,Undergraduate
+100984,M,0,Undergraduate
+100985,M,0,Undergraduate
+100986,M,0,High School
+100987,F,0,Undergraduate
+100988,F,0,High School
+100989,M,0,Some College
+100990,M,0,Undergraduate
+100991,F,0,Undergraduate
+100992,F,1,Undergraduate
+100993,F,0,Undergraduate
+100994,M,0,Undergraduate
+100995,F,0,Some College
+100996,F,0,Undergraduate
+100997,M,0,Undergraduate
+100998,F,0,Undergraduate
+100999,M,0,Undergraduate
+101000,F,0,Undergraduate
+101001,F,0,High School
+101002,F,0,Undergraduate
+101003,F,1,High School
+101004,F,0,Undergraduate
+101005,M,1,Undergraduate
+101006,M,0,High School
+101007,M,0,Graduate
+101008,F,0,Graduate
+101009,F,0,Graduate
+101010,M,0,Undergraduate
+101011,F,0,Graduate
+101012,F,0,Undergraduate
+101013,F,0,PhD
+101014,M,0,Undergraduate
+101015,M,0,Some College
+101016,F,0,Undergraduate
+101017,F,0,Undergraduate
+101018,F,0,Undergraduate
+101019,M,0,High School
+101020,F,0,Undergraduate
+101021,M,0,Some College
+101022,M,0,Undergraduate
+101023,F,0,Undergraduate
+101024,M,0,Undergraduate
+101025,M,0,Graduate
+101026,M,0,Graduate
+101027,M,0,Undergraduate
+101028,M,0,Undergraduate
+101029,M,0,Undergraduate
+101030,M,0,Undergraduate
+101031,M,0,Undergraduate
+101032,M,0,Some College
+101033,F,0,Graduate
+101034,M,0,Undergraduate
+101035,F,0,Undergraduate
+101036,F,0,High School
+101037,F,0,Undergraduate
+101038,M,0,Undergraduate
+101039,M,0,Undergraduate
+101040,M,0,Undergraduate
+101041,F,0,Some College
+101042,F,0,High School
+101043,M,0,Undergraduate
+101044,F,0,Undergraduate
+101045,M,0,Undergraduate
+101046,M,0,Undergraduate
+101047,M,0,Undergraduate
+101048,M,0,Undergraduate
+101049,M,0,Undergraduate
+101050,F,0,High School
+101051,M,0,High School
+101052,M,0,Undergraduate
+101053,F,0,Undergraduate
+101054,F,0,Undergraduate
+101055,M,0,PhD
+101056,M,0,Undergraduate
+101057,F,0,Undergraduate
+101058,M,0,Undergraduate
+101059,M,0,Undergraduate
+101060,M,0,High School
+101061,M,0,Undergraduate
+101062,F,1,Undergraduate
+101063,F,0,Undergraduate
+101064,M,0,Undergraduate
+101065,M,0,Undergraduate
+101066,F,0,Undergraduate
+101067,M,0,Undergraduate
+101068,M,0,Undergraduate
+101069,F,0,Some College
+101070,F,0,Undergraduate
+101071,M,0,Undergraduate
+101072,M,0,PhD
+101073,F,0,Undergraduate
+101074,M,0,Undergraduate
+101075,M,0,Undergraduate
+101076,M,0,Graduate
+101077,M,0,Undergraduate
+101078,M,0,Graduate
+101079,M,0,Undergraduate
+101080,M,0,Undergraduate
+101081,M,0,Undergraduate
+101082,M,0,High School
+101083,M,0,High School
+101084,F,0,Some College
+101085,M,0,Undergraduate
+101086,F,1,Undergraduate
+101087,F,0,Undergraduate
+101088,M,0,Undergraduate
+101089,M,0,Graduate
+101090,F,0,Undergraduate
+101091,F,0,High School
+101092,M,0,Undergraduate
+101093,F,0,Undergraduate
+101094,F,0,Graduate
+101095,M,0,Undergraduate
+101096,F,0,Undergraduate
+101097,F,1,Graduate
+101098,F,0,Graduate
+101099,M,0,Some College
+101100,F,0,Some College
+101101,M,0,High School
+101102,M,0,High School
+101103,F,0,Undergraduate
+101104,M,0,Some College
+101105,M,0,Undergraduate
+101106,M,0,Graduate
+101107,M,0,High School
+101108,F,0,Undergraduate
+101109,M,0,High School
+101110,M,0,Undergraduate
+101111,F,0,High School
+101112,F,0,Graduate
+101113,M,0,High School
+101114,F,0,Undergraduate
+101115,M,0,Undergraduate
+101116,M,0,Undergraduate
+101117,F,0,High School
+101118,M,0,Undergraduate
+101119,F,0,Undergraduate
+101120,F,0,High School
+101121,M,1,Undergraduate
+101122,F,0,Undergraduate
+101123,M,0,High School
+101124,M,0,Undergraduate
+101125,M,0,Undergraduate
+101126,F,0,Graduate
+101127,F,0,Undergraduate
+101128,F,0,PhD
+101129,M,0,Undergraduate
+101130,M,0,Undergraduate
+101131,F,0,Undergraduate
+101132,M,0,Some College
+101133,F,0,Undergraduate
+101134,M,0,Undergraduate
+101135,F,0,Undergraduate
+101136,M,0,High School
+101137,F,0,High School
+101138,M,0,High School
+101139,M,0,High School
+101140,F,0,High School
+101141,F,0,Some College
+101142,M,0,Undergraduate
+101143,F,0,Undergraduate
+101144,F,0,Undergraduate
+101145,F,0,Graduate
+101146,F,0,Undergraduate
+101147,M,0,Undergraduate
+101148,M,0,Undergraduate
+101149,F,0,Graduate
+101150,M,0,Some College
+101151,F,0,High School
+101152,F,1,Undergraduate
+101153,F,0,Undergraduate
+101154,M,0,Graduate
+101155,M,0,Graduate
+101156,F,0,High School
+101157,F,0,Undergraduate
+101158,M,0,Undergraduate
+101159,M,0,Undergraduate
+101160,M,0,Undergraduate
+101161,F,0,High School
+101162,F,0,Undergraduate
+101163,M,0,Undergraduate
+101164,F,0,Undergraduate
+101165,M,0,High School
+101166,F,0,Undergraduate
+101167,M,0,High School
+101168,F,0,Some College
+101169,M,0,Undergraduate
+101170,M,0,High School
+101171,M,0,Undergraduate
+101172,M,0,High School
+101173,M,0,Undergraduate
+101174,M,0,High School
+101175,F,0,Undergraduate
+101176,M,0,Undergraduate
+101177,M,0,Some College
+101178,F,0,High School
+101179,M,0,Undergraduate
+101180,M,0,Undergraduate
+101181,F,0,Undergraduate
+101182,M,0,High School
+101183,F,0,High School
+101184,M,0,Undergraduate
+101185,M,0,Graduate
+101186,M,0,High School
+101187,F,0,Graduate
+101188,M,0,High School
+101189,M,0,Graduate
+101190,F,0,Some College
+101191,M,0,Undergraduate
+101192,M,0,High School
+101193,F,0,Graduate
+101194,F,0,Undergraduate
+101195,F,0,Graduate
+101196,M,0,Undergraduate
+101197,M,0,Undergraduate
+101198,F,0,Undergraduate
+101199,F,0,Graduate
+101200,M,0,Undergraduate
+101201,M,0,Undergraduate
+101202,M,0,Graduate
+101203,M,0,Some College
+101204,M,0,Undergraduate
+101205,M,0,Undergraduate
+101206,M,0,Undergraduate
+101207,F,0,High School
+101208,M,0,Undergraduate
+101209,M,0,High School
+101210,M,0,PhD
+101211,M,0,Undergraduate
+101212,F,0,Undergraduate
+101213,F,0,Undergraduate
+101214,M,1,Undergraduate
+101215,M,0,High School
+101216,M,0,Undergraduate
+101217,F,1,Undergraduate
+101218,F,0,Undergraduate
+101219,M,0,Some College
+101220,M,0,Undergraduate
+101221,M,1,Some College
+101222,M,0,High School
+101223,M,0,Undergraduate
+101224,M,0,Undergraduate
+101225,M,0,Undergraduate
+101226,M,0,Undergraduate
+101227,M,0,Undergraduate
+101228,M,0,Undergraduate
+101229,M,0,Some College
+101230,F,0,Undergraduate
+101231,F,0,Graduate
+101232,F,0,Undergraduate
+101233,M,0,Undergraduate
+101234,F,0,Undergraduate
+101235,M,0,Undergraduate
+101236,M,0,High School
+101237,M,0,Undergraduate
+101238,F,0,High School
+101239,M,0,Undergraduate
+101240,M,0,High School
+101241,F,0,Undergraduate
+101242,M,0,Undergraduate
+101243,M,0,PhD
+101244,F,0,Undergraduate
+101245,F,0,Undergraduate
+101246,F,0,High School
+101247,M,0,Undergraduate
+101248,F,0,High School
+101249,F,0,Undergraduate
+101250,F,0,Undergraduate
+101251,M,0,Undergraduate
+101252,F,0,Undergraduate
+101253,M,0,Undergraduate
+101254,F,0,Undergraduate
+101255,F,0,Undergraduate
+101256,M,0,High School
+101257,F,0,Undergraduate
+101258,F,0,Graduate
+101259,M,0,Undergraduate
+101260,M,0,Some College
+101261,M,0,High School
+101262,M,0,Undergraduate
+101263,F,0,Undergraduate
+101264,F,0,Undergraduate
+101265,F,0,Undergraduate
+101266,M,0,Some College
+101267,F,0,Undergraduate
+101268,M,0,High School
+101269,M,0,High School
+101270,F,0,Undergraduate
+101271,F,0,Undergraduate
+101272,F,0,Undergraduate
+101273,F,0,Undergraduate
+101274,F,1,Undergraduate
+101275,F,0,Undergraduate
+101276,M,0,Undergraduate
+101277,M,0,Some College
+101278,F,0,Undergraduate
+101279,M,0,Undergraduate
+101280,F,0,Undergraduate
+101281,M,0,Undergraduate
+101282,F,0,Graduate
+101283,M,0,High School
+101284,F,0,Graduate
+101285,M,0,Undergraduate
+101286,F,0,Undergraduate
+101287,M,0,Undergraduate
+101288,F,0,High School
+101289,F,0,Some College
+101290,M,0,Some College
+101291,F,0,Undergraduate
+101292,F,0,Undergraduate
+101293,F,0,Undergraduate
+101294,M,0,Undergraduate
+101295,F,0,Undergraduate
+101296,F,0,Undergraduate
+101297,F,0,High School
+101298,M,0,Some College
+101299,M,0,Undergraduate
+101300,F,0,Undergraduate
+101301,F,0,High School
+101302,F,0,Undergraduate
+101303,F,0,Undergraduate
+101304,F,0,PhD
+101305,F,0,Undergraduate
+101306,F,0,High School
+101307,M,0,Undergraduate
+101308,F,0,High School
+101309,M,0,Undergraduate
+101310,M,0,Undergraduate
+101311,F,0,Undergraduate
+101312,M,0,Undergraduate
+101313,F,0,Undergraduate
+101314,M,0,Undergraduate
+101315,M,0,High School
+101316,M,0,Some College
+101317,M,0,High School
+101318,F,0,Undergraduate
+101319,F,0,High School
+101320,M,0,Undergraduate
+101321,F,1,Undergraduate
+101322,M,0,Undergraduate
+101323,F,0,Graduate
+101324,F,0,High School
+101325,F,0,Undergraduate
+101326,F,0,Undergraduate
+101327,F,0,Undergraduate
+101328,M,0,PhD
+101329,F,0,PhD
+101330,M,0,Some College
+101331,F,0,High School
+101332,M,0,Undergraduate
+101333,F,0,Undergraduate
+101334,M,0,Some College
+101335,M,0,Undergraduate
+101336,M,0,Undergraduate
+101337,F,0,Undergraduate
+101338,F,0,Undergraduate
+101339,F,0,High School
+101340,F,0,Undergraduate
+101341,M,0,Undergraduate
+101342,F,0,High School
+101343,M,0,High School
+101344,F,0,Undergraduate
+101345,M,0,High School
+101346,F,0,Graduate
+101347,F,0,Undergraduate
+101348,M,0,Some College
+101349,F,0,Undergraduate
+101350,M,0,Undergraduate
+101351,M,0,Undergraduate
+101352,M,0,Undergraduate
+101353,F,0,High School
+101354,F,0,Some College
+101355,M,1,Undergraduate
+101356,F,0,Graduate
+101357,M,0,Undergraduate
+101358,F,0,Some College
+101359,F,0,High School
+101360,M,0,Some College
+101361,F,0,Undergraduate
+101362,F,0,High School
+101363,M,0,Undergraduate
+101364,F,0,High School
+101365,M,0,Graduate
+101366,M,0,Undergraduate
+101367,F,0,High School
+101368,M,0,Undergraduate
+101369,F,0,Undergraduate
+101370,M,0,Undergraduate
+101371,F,0,Undergraduate
+101372,F,0,Undergraduate
+101373,M,0,Undergraduate
+101374,M,0,High School
+101375,F,0,Undergraduate
+101376,F,0,Undergraduate
+101377,F,0,Undergraduate
+101378,F,0,High School
+101379,F,0,Undergraduate
+101380,F,0,Undergraduate
+101381,F,0,Undergraduate
+101382,F,0,Undergraduate
+101383,F,0,Undergraduate
+101384,M,0,Undergraduate
+101385,F,0,Undergraduate
+101386,M,0,High School
+101387,F,0,High School
+101388,F,0,High School
+101389,M,0,Undergraduate
+101390,F,0,Undergraduate
+101391,M,0,Undergraduate
+101392,F,0,Undergraduate
+101393,F,0,Undergraduate
+101394,M,0,Graduate
+101395,F,0,Undergraduate
+101396,F,0,Some College
+101397,M,0,PhD
+101398,M,0,Graduate
+101399,F,0,Undergraduate
+101400,M,0,Undergraduate
+101401,F,0,High School
+101402,M,0,Undergraduate
+101403,F,0,Undergraduate
+101404,F,0,Undergraduate
+101405,M,0,Undergraduate
+101406,M,0,Undergraduate
+101407,M,0,Undergraduate
+101408,M,0,High School
+101409,F,0,Undergraduate
+101410,F,0,Undergraduate
+101411,M,0,Undergraduate
+101412,M,0,Undergraduate
+101413,M,0,Undergraduate
+101414,F,0,High School
+101415,M,0,High School
+101416,M,0,Undergraduate
+101417,F,0,Undergraduate
+101418,F,1,Undergraduate
+101419,M,0,Undergraduate
+101420,M,0,Undergraduate
+101421,F,0,Some College
+101422,M,0,High School
+101423,F,0,High School
+101424,F,0,Undergraduate
+101425,F,0,Undergraduate
+101426,F,0,Undergraduate
+101427,F,0,Undergraduate
+101428,F,0,Undergraduate
+101429,F,0,High School
+101430,F,0,Undergraduate
+101431,M,0,High School
+101432,F,0,Some College
+101433,M,0,Undergraduate
+101434,M,0,Undergraduate
+101435,M,0,Undergraduate
+101436,M,1,Undergraduate
+101437,M,0,Graduate
+101438,F,0,Undergraduate
+101439,F,0,Undergraduate
+101440,F,0,Undergraduate
+101441,M,0,High School
+101442,F,0,High School
+101443,M,0,Undergraduate
+101444,M,0,Undergraduate
+101445,F,0,Undergraduate
+101446,F,0,Undergraduate
+101447,M,0,High School
+101448,M,0,Undergraduate
+101449,M,0,Graduate
+101450,M,0,High School
+101451,M,0,High School
+101452,F,0,Undergraduate
+101453,F,0,Undergraduate
+101454,M,0,Undergraduate
+101455,M,0,Undergraduate
+101456,F,0,Undergraduate
+101457,M,0,High School
+101458,F,0,Undergraduate
+101459,F,0,Undergraduate
+101460,M,0,Undergraduate
+101461,M,0,High School
+101462,M,0,High School
+101463,F,0,Undergraduate
+101464,M,0,High School
+101465,F,0,Undergraduate
+101466,M,0,Undergraduate
+101467,F,0,High School
+101468,M,0,Undergraduate
+101469,F,1,Undergraduate
+101470,M,0,Undergraduate
+101471,F,0,Undergraduate
+101472,F,0,Graduate
+101473,F,0,Undergraduate
+101474,M,0,Undergraduate
+101475,F,0,High School
+101476,F,0,High School
+101477,F,0,Undergraduate
+101478,M,0,High School
+101479,M,0,High School
+101480,M,0,High School
+101481,M,0,Undergraduate
+101482,F,0,Undergraduate
+101483,F,0,Undergraduate
+101484,M,0,High School
+101485,F,0,Undergraduate
+101486,M,0,Graduate
+101487,F,0,Undergraduate
+101488,F,0,Some College
+101489,F,0,High School
+101490,F,0,Graduate
+101491,F,0,Undergraduate
+101492,F,0,Graduate
+101493,F,0,Undergraduate
+101494,M,0,High School
+101495,M,0,High School
+101496,F,0,Graduate
+101497,M,0,High School
+101498,M,0,Undergraduate
+101499,F,0,High School
+101500,F,0,Undergraduate
+101501,M,0,Graduate
+101502,F,0,Undergraduate
+101503,F,0,Undergraduate
+101504,F,0,Undergraduate
+101505,M,0,Some College
+101506,F,0,Undergraduate
+101507,F,0,Undergraduate
+101508,M,0,Undergraduate
+101509,M,0,Graduate
+101510,F,0,High School
+101511,M,0,Undergraduate
+101512,M,0,Undergraduate
+101513,M,1,High School
+101514,M,0,Graduate
+101515,M,0,Some College
+101516,M,0,Graduate
+101517,M,0,Graduate
+101518,F,0,Undergraduate
+101519,M,0,Undergraduate
+101520,M,0,Undergraduate
+101521,F,0,Undergraduate
+101522,M,0,Undergraduate
+101523,F,0,High School
+101524,M,0,Undergraduate
+101525,F,0,Undergraduate
+101526,F,0,Undergraduate
+101527,M,0,Undergraduate
+101528,F,0,High School
+101529,F,0,Undergraduate
+101530,F,0,Undergraduate
+101531,M,0,Undergraduate
+101532,M,0,PhD
+101533,F,0,Undergraduate
+101534,M,0,Graduate
+101535,M,0,High School
+101536,F,0,Undergraduate
+101537,F,0,PhD
+101538,M,0,Undergraduate
+101539,M,0,High School
+101540,F,0,Graduate
+101541,F,0,Undergraduate
+101542,M,0,Undergraduate
+101543,F,0,Undergraduate
+101544,M,0,Undergraduate
+101545,M,0,Undergraduate
+101546,F,0,High School
+101547,M,0,Undergraduate
+101548,M,0,Undergraduate
+101549,M,0,High School
+101550,F,0,Undergraduate
+101551,M,0,High School
+101552,M,0,Undergraduate
+101553,M,0,High School
+101554,F,0,Undergraduate
+101555,F,0,Undergraduate
+101556,M,0,Undergraduate
+101557,F,0,High School
+101558,M,1,Undergraduate
+101559,F,0,Undergraduate
+101560,F,0,High School
+101561,M,0,Undergraduate
+101562,F,0,Undergraduate
+101563,F,0,Undergraduate
+101564,F,0,High School
+101565,F,0,PhD
+101566,F,0,Undergraduate
+101567,F,0,Some College
+101568,M,0,Graduate
+101569,F,0,Undergraduate
+101570,F,0,Undergraduate
+101571,M,0,Undergraduate
+101572,M,0,Undergraduate
+101573,F,0,Undergraduate
+101574,F,0,Undergraduate
+101575,F,0,Undergraduate
+101576,F,0,Undergraduate
+101577,M,0,High School
+101578,F,0,Undergraduate
+101579,M,1,Undergraduate
+101580,F,0,High School
+101581,M,0,Undergraduate
+101582,F,0,Undergraduate
+101583,F,0,High School
+101584,M,0,Graduate
+101585,M,0,Undergraduate
+101586,M,0,Undergraduate
+101587,M,0,High School
+101588,M,0,Undergraduate
+101589,M,0,Graduate
+101590,M,0,Undergraduate
+101591,M,0,High School
+101592,F,0,PhD
+101593,F,0,Undergraduate
+101594,F,0,Undergraduate
+101595,F,0,Undergraduate
+101596,M,0,Undergraduate
+101597,M,0,High School
+101598,M,0,PhD
+101599,F,0,Undergraduate
+101600,M,1,Undergraduate
+101601,M,0,Some College
+101602,M,0,Undergraduate
+101603,F,0,Undergraduate
+101604,F,0,High School
+101605,M,0,High School
+101606,F,0,Undergraduate
+101607,F,0,High School
+101608,M,0,Undergraduate
+101609,F,1,High School
+101610,F,0,Undergraduate
+101611,F,0,Undergraduate
+101612,M,0,Undergraduate
+101613,M,0,High School
+101614,F,0,High School
+101615,M,0,High School
+101616,M,0,Undergraduate
+101617,M,0,Undergraduate
+101618,F,0,PhD
+101619,F,0,Undergraduate
+101620,M,0,Undergraduate
+101621,F,0,Undergraduate
+101622,F,0,Undergraduate
+101623,F,0,PhD
+101624,M,0,Some College
+101625,M,0,High School
+101626,F,0,Undergraduate
+101627,F,0,Undergraduate
+101628,M,0,Undergraduate
+101629,M,0,Undergraduate
+101630,M,0,Undergraduate
+101631,F,0,Undergraduate
+101632,M,1,Undergraduate
+101633,M,0,High School
+101634,M,0,Undergraduate
+101635,M,0,Some College
+101636,M,0,Undergraduate
+101637,M,0,Graduate
+101638,M,0,Undergraduate
+101639,F,0,High School
+101640,M,0,Undergraduate
+101641,F,0,High School
+101642,F,0,Undergraduate
+101643,F,0,Graduate
+101644,F,0,Undergraduate
+101645,M,0,Undergraduate
+101646,M,0,High School
+101647,F,0,High School
+101648,F,0,PhD
+101649,F,0,Undergraduate
+101650,M,0,Some College
+101651,M,0,Undergraduate
+101652,M,0,High School
+101653,M,0,Undergraduate
+101654,M,0,Undergraduate
+101655,F,0,Some College
+101656,M,0,Undergraduate
+101657,F,0,Undergraduate
+101658,M,0,Undergraduate
+101659,F,0,High School
+101660,F,0,Undergraduate
+101661,M,0,Undergraduate
+101662,F,0,Undergraduate
+101663,M,0,Undergraduate
+101664,M,0,High School
+101665,F,0,Undergraduate
+101666,M,0,Undergraduate
+101667,M,0,Undergraduate
+101668,M,0,Undergraduate
+101669,F,0,Undergraduate
+101670,M,0,Graduate
+101671,M,0,High School
+101672,M,0,Some College
+101673,M,0,Graduate
+101674,M,0,High School
+101675,M,0,High School
+101676,F,0,Undergraduate
+101677,F,0,Some College
+101678,F,0,Undergraduate
+101679,M,0,Undergraduate
+101680,F,0,Undergraduate
+101681,M,0,Graduate
+101682,F,0,Some College
+101683,M,0,High School
+101684,F,0,Some College
+101685,M,0,Undergraduate
+101686,M,0,High School
+101687,M,0,High School
+101688,F,0,Undergraduate
+101689,M,0,Undergraduate
+101690,F,0,Undergraduate
+101691,M,0,Graduate
+101692,F,0,Graduate
+101693,M,0,High School
+101694,F,0,Undergraduate
+101695,F,0,Undergraduate
+101696,M,0,Undergraduate
+101697,M,0,Some College
+101698,F,0,Undergraduate
+101699,F,0,Undergraduate
+101700,F,0,Undergraduate
+101701,F,0,Undergraduate
+101702,M,0,Undergraduate
+101703,M,0,Undergraduate
+101704,F,0,Undergraduate
+101705,M,1,Undergraduate
+101706,F,0,Undergraduate
+101707,F,0,Graduate
+101708,M,0,High School
+101709,F,0,Undergraduate
+101710,F,0,Some College
+101711,F,0,Undergraduate
+101712,M,0,Graduate
+101713,F,0,Undergraduate
+101714,M,0,Some College
+101715,M,0,Undergraduate
+101716,M,0,Graduate
+101717,M,0,Undergraduate
+101718,M,0,Undergraduate
+101719,M,0,Graduate
+101720,F,0,Undergraduate
+101721,M,0,Undergraduate
+101722,M,0,Undergraduate
+101723,M,0,PhD
+101724,F,1,Undergraduate
+101725,F,0,Graduate
+101726,M,0,Undergraduate
+101727,F,0,Undergraduate
+101728,M,1,Undergraduate
+101729,M,0,Undergraduate
+101730,F,0,Undergraduate
+101731,M,0,Undergraduate
+101732,F,0,Undergraduate
+101733,M,0,Undergraduate
+101734,F,0,Some College
+101735,M,0,Undergraduate
+101736,F,1,Undergraduate
+101737,F,0,Undergraduate
+101738,M,0,Undergraduate
+101739,M,0,High School
+101740,M,0,High School
+101741,F,0,High School
+101742,F,0,Undergraduate
+101743,F,0,High School
+101744,F,0,High School
+101745,F,0,Undergraduate
+101746,F,0,Undergraduate
+101747,M,0,High School
+101748,F,0,High School
+101749,M,0,Some College
+101750,M,0,High School
+101751,M,0,Undergraduate
+101752,F,1,High School
+101753,F,0,Undergraduate
+101754,F,0,Undergraduate
+101755,F,0,Graduate
+101756,M,0,Undergraduate
+101757,M,0,Undergraduate
+101758,M,0,High School
+101759,F,0,Graduate
+101760,F,0,Undergraduate
+101761,F,0,Undergraduate
+101762,F,1,Undergraduate
+101763,M,0,Undergraduate
+101764,M,0,Undergraduate
+101765,M,0,Undergraduate
+101766,M,0,Undergraduate
+101767,M,0,High School
+101768,F,0,Undergraduate
+101769,M,0,High School
+101770,F,0,Undergraduate
+101771,F,0,Undergraduate
+101772,F,0,Undergraduate
+101773,F,0,Some College
+101774,F,0,Undergraduate
+101775,F,0,Undergraduate
+101776,M,0,Undergraduate
+101777,F,0,High School
+101778,M,0,Undergraduate
+101779,F,0,Undergraduate
+101780,M,0,Undergraduate
+101781,F,0,Undergraduate
+101782,F,0,Undergraduate
+101783,F,0,Undergraduate
+101784,M,0,Undergraduate
+101785,F,0,Undergraduate
+101786,F,0,Some College
+101787,F,0,High School
+101788,F,0,Undergraduate
+101789,F,0,PhD
+101790,M,0,Undergraduate
+101791,M,0,Undergraduate
+101792,F,0,High School
+101793,M,0,Undergraduate
+101794,M,0,High School
+101795,F,0,Undergraduate
+101796,M,0,Undergraduate
+101797,M,0,Undergraduate
+101798,F,0,Undergraduate
+101799,F,0,Undergraduate
+101800,M,0,High School
+101801,M,0,Undergraduate
+101802,M,0,PhD
+101803,M,0,Undergraduate
+101804,F,0,Undergraduate
+101805,F,0,Undergraduate
+101806,M,1,Undergraduate
+101807,M,0,Undergraduate
+101808,M,0,High School
+101809,F,0,High School
+101810,F,0,Some College
+101811,F,0,Undergraduate
+101812,F,0,Undergraduate
+101813,M,0,PhD
+101814,F,0,Undergraduate
+101815,M,0,High School
+101816,M,0,Undergraduate
+101817,M,0,Some College
+101818,M,0,Undergraduate
+101819,F,0,Some College
+101820,F,0,High School
+101821,F,0,Undergraduate
+101822,F,0,High School
+101823,F,0,Graduate
+101824,F,0,Undergraduate
+101825,F,1,Undergraduate
+101826,F,0,Undergraduate
+101827,F,0,Undergraduate
+101828,F,0,Undergraduate
+101829,F,0,Undergraduate
+101830,M,0,Undergraduate
+101831,M,0,Undergraduate
+101832,M,0,Undergraduate
+101833,M,0,PhD
+101834,M,0,Some College
+101835,F,0,Undergraduate
+101836,M,0,Undergraduate
+101837,M,0,Undergraduate
+101838,M,0,Some College
+101839,M,0,Undergraduate
+101840,M,0,High School
+101841,M,0,Undergraduate
+101842,F,0,Undergraduate
+101843,M,0,Undergraduate
+101844,F,0,Undergraduate
+101845,M,0,Undergraduate
+101846,M,0,Undergraduate
+101847,M,1,Undergraduate
+101848,F,0,Undergraduate
+101849,M,0,Undergraduate
+101850,M,0,Graduate
+101851,F,0,Undergraduate
+101852,M,0,Undergraduate
+101853,F,0,High School
+101854,M,0,Graduate
+101855,M,0,High School
+101856,F,0,Undergraduate
+101857,M,0,Undergraduate
+101858,F,0,Graduate
+101859,M,0,Some College
+101860,M,0,High School
+101861,M,0,Undergraduate
+101862,M,0,Graduate
+101863,F,0,Undergraduate
+101864,F,0,Undergraduate
+101865,M,0,Undergraduate
+101866,M,0,Undergraduate
+101867,M,0,Undergraduate
+101868,M,0,Undergraduate
+101869,M,0,Undergraduate
+101870,M,0,Undergraduate
+101871,M,0,Undergraduate
+101872,M,0,High School
+101873,M,0,Undergraduate
+101874,F,0,Graduate
+101875,M,0,High School
+101876,F,0,High School
+101877,F,0,Graduate
+101878,F,0,Graduate
+101879,M,0,Graduate
+101880,F,0,Undergraduate
+101881,M,0,Graduate
+101882,F,0,Undergraduate
+101883,F,0,Undergraduate
+101884,F,0,Undergraduate
+101885,M,0,Graduate
+101886,F,1,Undergraduate
+101887,F,0,Undergraduate
+101888,M,0,Undergraduate
+101889,F,0,PhD
+101890,F,0,Undergraduate
+101891,F,0,Undergraduate
+101892,M,0,Undergraduate
+101893,F,0,Undergraduate
+101894,M,0,Graduate
+101895,F,0,Graduate
+101896,M,0,Undergraduate
+101897,F,0,Undergraduate
+101898,M,0,Undergraduate
+101899,F,0,Some College
+101900,F,0,Undergraduate
+101901,F,0,Undergraduate
+101902,M,0,Undergraduate
+101903,M,0,High School
+101904,F,0,Undergraduate
+101905,M,0,Undergraduate
+101906,F,0,Undergraduate
+101907,F,0,Undergraduate
+101908,F,0,Undergraduate
+101909,F,1,Undergraduate
+101910,M,0,Undergraduate
+101911,M,0,High School
+101912,M,0,Some College
+101913,F,0,High School
+101914,F,0,Undergraduate
+101915,M,0,High School
+101916,M,0,Graduate
+101917,M,0,Undergraduate
+101918,F,0,Undergraduate
+101919,M,0,Undergraduate
+101920,F,0,Undergraduate
+101921,M,0,Undergraduate
+101922,F,0,Undergraduate
+101923,F,0,Undergraduate
+101924,M,0,Undergraduate
+101925,M,0,Undergraduate
+101926,F,0,Undergraduate
+101927,F,0,Graduate
+101928,M,0,Undergraduate
+101929,M,1,Undergraduate
+101930,F,0,Undergraduate
+101931,M,0,Graduate
+101932,M,0,High School
+101933,M,0,Undergraduate
+101934,F,0,Undergraduate
+101935,M,0,PhD
+101936,M,0,Some College
+101937,M,0,Some College
+101938,M,0,PhD
+101939,M,0,Undergraduate
+101940,M,0,Undergraduate
+101941,F,0,Undergraduate
+101942,F,0,Undergraduate
+101943,M,0,Undergraduate
+101944,M,1,Undergraduate
+101945,F,0,Undergraduate
+101946,F,0,High School
+101947,M,0,Undergraduate
+101948,M,0,Undergraduate
+101949,F,0,High School
+101950,F,0,Undergraduate
+101951,F,0,Undergraduate
+101952,F,0,Undergraduate
+101953,M,0,Undergraduate
+101954,M,0,Undergraduate
+101955,F,1,Undergraduate
+101956,F,0,Graduate
+101957,F,0,Undergraduate
+101958,F,0,High School
+101959,M,0,Undergraduate
+101960,M,0,High School
+101961,F,0,PhD
+101962,F,0,Some College
+101963,M,0,Undergraduate
+101964,M,0,Undergraduate
+101965,F,0,High School
+101966,M,0,Undergraduate
+101967,F,0,Undergraduate
+101968,M,0,High School
+101969,M,0,Undergraduate
+101970,M,0,Undergraduate
+101971,F,1,High School
+101972,M,1,High School
+101973,M,0,Undergraduate
+101974,M,0,Undergraduate
+101975,M,0,Graduate
+101976,M,0,Undergraduate
+101977,M,0,Undergraduate
+101978,F,0,Undergraduate
+101979,F,0,Undergraduate
+101980,F,0,Undergraduate
+101981,F,0,Undergraduate
+101982,M,0,Undergraduate
+101983,F,1,Undergraduate
+101984,M,0,High School
+101985,F,0,Undergraduate
+101986,M,0,Undergraduate
+101987,M,0,High School
+101988,M,0,Undergraduate
+101989,F,0,High School
+101990,M,0,Undergraduate
+101991,M,0,Undergraduate
+101992,F,0,Undergraduate
+101993,M,0,Undergraduate
+101994,M,0,Undergraduate
+101995,M,0,Undergraduate
+101996,F,0,Undergraduate
+101997,F,0,Undergraduate
+101998,F,0,Undergraduate
+101999,F,0,High School
+102000,F,0,Undergraduate
+102001,F,0,Undergraduate
+102002,F,0,Undergraduate
+102003,F,0,Undergraduate
+102004,M,0,Undergraduate
+102005,M,0,Some College
+102006,F,0,Undergraduate
+102007,M,0,Some College
+102008,F,0,Undergraduate
+102009,M,0,Undergraduate
+102010,F,0,High School
+102011,F,0,Undergraduate
+102012,F,0,High School
+102013,F,0,Undergraduate
+102014,M,0,Undergraduate
+102015,M,0,Undergraduate
+102016,F,0,Undergraduate
+102017,F,0,Undergraduate
+102018,F,0,Graduate
+102019,F,0,High School
+102020,M,0,Undergraduate
+102021,M,1,High School
+102022,M,0,Undergraduate
+102023,M,0,High School
+102024,M,1,High School
+102025,F,0,Undergraduate
+102026,F,0,Graduate
+102027,M,0,Graduate
+102028,M,0,Undergraduate
+102029,M,0,Undergraduate
+102030,M,0,Undergraduate
+102031,M,0,Some College
+102032,M,0,Undergraduate
+102033,M,0,High School
+102034,F,0,Undergraduate
+102035,F,0,High School
+102036,F,0,Some College
+102037,F,0,Undergraduate
+102038,F,0,Undergraduate
+102039,F,0,Undergraduate
+102040,M,0,High School
+102041,F,0,Undergraduate
+102042,M,0,Undergraduate
+102043,F,0,Graduate
+102044,M,0,Some College
+102045,M,0,High School
+102046,F,0,Undergraduate
+102047,F,0,Graduate
+102048,F,0,Undergraduate
+102049,F,0,Undergraduate
+102050,F,0,Undergraduate
+102051,M,0,Undergraduate
+102052,M,0,Undergraduate
+102053,M,0,Undergraduate
+102054,F,0,Graduate
+102055,F,0,High School
+102056,F,0,Undergraduate
+102057,F,1,Undergraduate
+102058,M,0,Undergraduate
+102059,M,0,High School
+102060,M,0,Undergraduate
+102061,M,0,High School
+102062,M,0,Graduate
+102063,M,0,Undergraduate
+102064,F,0,Undergraduate
+102065,F,0,Undergraduate
+102066,F,0,High School
+102067,F,0,Some College
+102068,M,0,Some College
+102069,M,0,Undergraduate
+102070,M,0,Undergraduate
+102071,M,0,Undergraduate
+102072,F,0,Undergraduate
+102073,M,0,Some College
+102074,M,0,Some College
+102075,F,0,Undergraduate
+102076,F,0,High School
+102077,F,0,PhD
+102078,F,0,Undergraduate
+102079,M,0,Undergraduate
+102080,M,0,Undergraduate
+102081,M,0,Undergraduate
+102082,M,0,Undergraduate
+102083,M,0,Graduate
+102084,F,0,Graduate
+102085,M,0,Graduate
+102086,M,0,Undergraduate
+102087,M,0,Undergraduate
+102088,M,0,Some College
+102089,F,0,Undergraduate
+102090,F,0,Undergraduate
+102091,M,0,Undergraduate
+102092,F,0,Undergraduate
+102093,F,0,High School
+102094,F,0,Undergraduate
+102095,M,0,Graduate
+102096,M,0,PhD
+102097,M,0,Undergraduate
+102098,M,0,Undergraduate
+102099,F,0,High School
+102100,M,0,Undergraduate
+102101,F,0,Undergraduate
+102102,F,0,PhD
+102103,M,0,Undergraduate
+102104,M,0,Some College
+102105,M,0,Some College
+102106,M,0,High School
+102107,M,0,High School
+102108,F,0,Undergraduate
+102109,M,0,Undergraduate
+102110,M,0,Undergraduate
+102111,M,0,Undergraduate
+102112,M,0,Some College
+102113,M,1,Undergraduate
+102114,F,0,Graduate
+102115,F,0,Undergraduate
+102116,F,0,Graduate
+102117,F,1,Some College
+102118,M,0,Undergraduate
+102119,M,0,Undergraduate
+102120,F,0,Undergraduate
+102121,F,0,Undergraduate
+102122,F,0,Graduate
+102123,M,0,Undergraduate
+102124,M,0,Undergraduate
+102125,F,0,Undergraduate
+102126,F,0,Undergraduate
+102127,M,0,Some College
+102128,M,0,Undergraduate
+102129,M,0,Undergraduate
+102130,M,0,Undergraduate
+102131,M,0,Undergraduate
+102132,M,0,Undergraduate
+102133,F,0,Undergraduate
+102134,M,0,High School
+102135,F,0,Undergraduate
+102136,F,0,Undergraduate
+102137,F,0,Undergraduate
+102138,F,0,Undergraduate
+102139,M,0,Undergraduate
+102140,F,0,Undergraduate
+102141,M,0,Graduate
+102142,M,0,Undergraduate
+102143,F,1,Some College
+102144,M,0,Undergraduate
+102145,F,0,Undergraduate
+102146,M,0,Undergraduate
+102147,M,0,High School
+102148,M,0,Undergraduate
+102149,F,0,Undergraduate
+102150,F,0,High School
+102151,F,0,Undergraduate
+102152,M,0,Undergraduate
+102153,M,0,Undergraduate
+102154,F,0,Undergraduate
+102155,M,0,Undergraduate
+102156,F,0,High School
+102157,F,0,Undergraduate
+102158,M,0,Undergraduate
+102159,M,0,PhD
+102160,F,0,Undergraduate
+102161,F,0,Undergraduate
+102162,F,0,Undergraduate
+102163,F,0,High School
+102164,M,0,Undergraduate
+102165,M,0,Undergraduate
+102166,F,0,Undergraduate
+102167,M,0,Undergraduate
+102168,M,1,Some College
+102169,F,0,High School
+102170,F,0,Undergraduate
+102171,F,0,Undergraduate
+102172,F,0,Undergraduate
+102173,M,0,High School
+102174,M,0,Undergraduate
+102175,M,0,High School
+102176,M,0,Undergraduate
+102177,F,0,Undergraduate
+102178,F,0,Undergraduate
+102179,F,0,High School
+102180,F,0,High School
+102181,F,0,Undergraduate
+102182,M,0,Undergraduate
+102183,F,0,High School
+102184,F,0,Undergraduate
+102185,F,0,Undergraduate
+102186,M,0,High School
+102187,F,0,Undergraduate
+102188,M,0,PhD
+102189,F,0,Undergraduate
+102190,F,0,High School
+102191,M,0,Undergraduate
+102192,M,0,Some College
+102193,F,0,Undergraduate
+102194,M,0,Undergraduate
+102195,M,0,High School
+102196,F,0,Undergraduate
+102197,M,0,Undergraduate
+102198,F,0,Graduate
+102199,M,0,Undergraduate
+102200,M,1,Graduate
+102201,M,0,High School
+102202,F,0,Undergraduate
+102203,M,0,High School
+102204,F,0,Some College
+102205,M,0,High School
+102206,F,0,Undergraduate
+102207,M,0,Undergraduate
+102208,M,1,Undergraduate
+102209,M,0,Undergraduate
+102210,M,0,Undergraduate
+102211,F,0,Undergraduate
+102212,M,0,Undergraduate
+102213,M,0,Graduate
+102214,M,0,Undergraduate
+102215,F,0,Undergraduate
+102216,M,0,Some College
+102217,M,0,Undergraduate
+102218,F,0,High School
+102219,F,0,High School
+102220,M,0,High School
+102221,M,0,Undergraduate
+102222,M,0,Graduate
+102223,M,0,Undergraduate
+102224,M,0,Undergraduate
+102225,M,0,Graduate
+102226,F,0,Undergraduate
+102227,M,0,Undergraduate
+102228,M,0,Undergraduate
+102229,F,0,Undergraduate
+102230,M,0,Undergraduate
+102231,F,0,Undergraduate
+102232,M,0,High School
+102233,M,0,High School
+102234,M,0,Undergraduate
+102235,M,0,Some College
+102236,F,0,Graduate
+102237,M,0,Undergraduate
+102238,M,0,Undergraduate
+102239,M,0,Undergraduate
+102240,F,0,Undergraduate
+102241,F,0,Undergraduate
+102242,F,0,High School
+102243,F,0,Graduate
+102244,F,0,Some College
+102245,M,0,High School
+102246,M,0,Undergraduate
+102247,F,0,High School
+102248,M,0,High School
+102249,M,0,High School
+102250,M,0,High School
+102251,M,0,Graduate
+102252,F,0,Some College
+102253,M,0,Undergraduate
+102254,F,0,Undergraduate
+102255,M,0,Undergraduate
+102256,M,0,Some College
+102257,M,0,Undergraduate
+102258,M,1,Undergraduate
+102259,F,0,High School
+102260,M,0,Undergraduate
+102261,F,0,Undergraduate
+102262,M,0,High School
+102263,F,0,Undergraduate
+102264,M,0,Undergraduate
+102265,F,0,Undergraduate
+102266,F,0,Undergraduate
+102267,M,0,High School
+102268,F,0,Undergraduate
+102269,F,0,High School
+102270,M,0,Undergraduate
+102271,F,0,Undergraduate
+102272,M,0,Undergraduate
+102273,M,0,Some College
+102274,F,0,High School
+102275,M,0,Some College
+102276,F,0,High School
+102277,F,0,Undergraduate
+102278,F,0,Undergraduate
+102279,M,0,Undergraduate
+102280,F,0,Undergraduate
+102281,F,0,Undergraduate
+102282,M,0,Undergraduate
+102283,M,0,Undergraduate
+102284,F,0,Undergraduate
+102285,M,0,Undergraduate
+102286,F,0,Undergraduate
+102287,M,0,Undergraduate
+102288,M,1,Undergraduate
+102289,M,0,High School
+102290,F,0,Some College
+102291,M,0,Undergraduate
+102292,M,0,Graduate
+102293,F,0,High School
+102294,M,0,Undergraduate
+102295,M,0,Undergraduate
+102296,F,0,Undergraduate
+102297,F,0,Undergraduate
+102298,F,0,Undergraduate
+102299,M,0,Undergraduate
+102300,M,0,Undergraduate
+102301,F,0,PhD
+102302,F,0,Undergraduate
+102303,M,0,Undergraduate
+102304,F,0,Undergraduate
+102305,M,0,Undergraduate
+102306,M,0,Undergraduate
+102307,F,0,Undergraduate
+102308,F,0,Undergraduate
+102309,F,0,Undergraduate
+102310,F,0,Undergraduate
+102311,F,0,Undergraduate
+102312,M,0,Undergraduate
+102313,M,0,Undergraduate
+102314,M,0,Undergraduate
+102315,F,0,High School
+102316,F,1,Undergraduate
+102317,F,0,Undergraduate
+102318,F,0,Graduate
+102319,M,0,Undergraduate
+102320,F,1,Undergraduate
+102321,M,0,Undergraduate
+102322,M,0,Undergraduate
+102323,F,0,High School
+102324,M,0,Undergraduate
+102325,F,0,High School
+102326,M,0,PhD
+102327,M,0,Undergraduate
+102328,F,0,High School
+102329,F,0,High School
+102330,M,0,Undergraduate
+102331,M,0,Some College
+102332,M,0,Undergraduate
+102333,F,0,Undergraduate
+102334,F,0,High School
+102335,F,0,Undergraduate
+102336,F,0,Undergraduate
+102337,M,0,High School
+102338,M,0,High School
+102339,M,0,Undergraduate
+102340,M,0,Undergraduate
+102341,F,0,Undergraduate
+102342,F,0,Undergraduate
+102343,F,0,PhD
+102344,F,0,Undergraduate
+102345,F,0,Undergraduate
+102346,M,0,Undergraduate
+102347,M,0,Undergraduate
+102348,M,0,Some College
+102349,M,0,Undergraduate
+102350,F,0,Undergraduate
+102351,M,0,Undergraduate
+102352,M,0,High School
+102353,M,0,Undergraduate
+102354,F,0,High School
+102355,M,0,Undergraduate
+102356,M,0,Undergraduate
+102357,F,0,Undergraduate
+102358,F,0,Undergraduate
+102359,F,0,Undergraduate
+102360,F,0,High School
+102361,M,0,High School
+102362,M,0,Undergraduate
+102363,M,0,Undergraduate
+102364,M,0,Undergraduate
+102365,M,0,Undergraduate
+102366,M,0,High School
+102367,M,0,High School
+102368,F,0,High School
+102369,M,0,Undergraduate
+102370,M,0,Undergraduate
+102371,F,0,Graduate
+102372,M,0,Undergraduate
+102373,F,0,Undergraduate
+102374,F,0,Undergraduate
+102375,M,0,Undergraduate
+102376,F,0,High School
+102377,F,0,Undergraduate
+102378,M,0,Undergraduate
+102379,F,0,Graduate
+102380,F,0,Undergraduate
+102381,F,0,PhD
+102382,M,0,Undergraduate
+102383,F,0,Undergraduate
+102384,M,0,Undergraduate
+102385,F,0,Undergraduate
+102386,F,0,Some College
+102387,F,0,Graduate
+102388,M,0,Undergraduate
+102389,M,0,Undergraduate
+102390,F,0,Undergraduate
+102391,F,0,PhD
+102392,M,0,Undergraduate
+102393,M,0,Undergraduate
+102394,F,1,Undergraduate
+102395,F,0,Undergraduate
+102396,M,0,Undergraduate
+102397,F,0,Undergraduate
+102398,F,0,Undergraduate
+102399,F,0,Graduate
+102400,M,0,Undergraduate
+102401,M,0,Undergraduate
+102402,M,0,Undergraduate
+102403,M,0,Some College
+102404,F,0,Undergraduate
+102405,M,0,High School
+102406,F,0,High School
+102407,F,0,High School
+102408,F,0,Undergraduate
+102409,F,0,Undergraduate
+102410,M,0,Undergraduate
+102411,F,0,Undergraduate
+102412,M,0,Undergraduate
+102413,F,0,Undergraduate
+102414,F,0,Undergraduate
+102415,F,0,Undergraduate
+102416,M,0,Undergraduate
+102417,M,0,Undergraduate
+102418,M,0,Undergraduate
+102419,M,1,Undergraduate
+102420,F,0,Undergraduate
+102421,F,0,Undergraduate
+102422,F,0,Undergraduate
+102423,M,0,Undergraduate
+102424,M,0,Undergraduate
+102425,F,0,Undergraduate
+102426,F,0,Some College
+102427,F,1,Undergraduate
+102428,F,0,Graduate
+102429,M,0,High School
+102430,F,0,High School
+102431,M,0,Undergraduate
+102432,F,0,Undergraduate
+102433,M,0,Undergraduate
+102434,F,0,Undergraduate
+102435,F,0,Undergraduate
+102436,M,1,Undergraduate
+102437,F,0,High School
+102438,M,0,Undergraduate
+102439,M,0,Undergraduate
+102440,F,0,High School
+102441,F,0,Graduate
+102442,M,0,Some College
+102443,F,0,Undergraduate
+102444,F,0,Undergraduate
+102445,M,0,High School
+102446,M,0,Undergraduate
+102447,F,0,Graduate
+102448,M,0,High School
+102449,F,0,Undergraduate
+102450,M,0,Graduate
+102451,F,0,Undergraduate
+102452,F,0,Undergraduate
+102453,M,0,Undergraduate
+102454,F,0,Undergraduate
+102455,F,1,Undergraduate
+102456,F,0,Undergraduate
+102457,M,0,Some College
+102458,M,0,PhD
+102459,M,0,Undergraduate
+102460,F,0,Some College
+102461,M,0,Undergraduate
+102462,M,0,High School
+102463,M,0,High School
+102464,M,0,Undergraduate
+102465,F,1,Undergraduate
+102466,F,0,Undergraduate
+102467,M,0,Graduate
+102468,F,0,Undergraduate
+102469,F,0,Undergraduate
+102470,M,0,Undergraduate
+102471,M,0,Undergraduate
+102472,F,0,Undergraduate
+102473,M,0,High School
+102474,M,0,High School
+102475,M,0,Undergraduate
+102476,F,0,Undergraduate
+102477,F,0,Undergraduate
+102478,F,0,Undergraduate
+102479,F,0,High School
+102480,M,0,Undergraduate
+102481,F,0,Undergraduate
+102482,F,0,Undergraduate
+102483,F,0,Undergraduate
+102484,F,0,Some College
+102485,M,0,Undergraduate
+102486,M,0,Some College
+102487,F,0,High School
+102488,F,0,Undergraduate
+102489,F,0,Undergraduate
+102490,M,0,Graduate
+102491,M,0,Undergraduate
+102492,M,0,Undergraduate
+102493,M,0,Undergraduate
+102494,M,0,Some College
+102495,M,0,Undergraduate
+102496,F,0,Undergraduate
+102497,M,0,High School
+102498,M,0,Some College
+102499,F,0,Undergraduate
+102500,F,0,Undergraduate
+102501,F,0,Undergraduate
+102502,M,0,Undergraduate
+102503,M,0,Graduate
+102504,M,0,Undergraduate
+102505,F,0,Undergraduate
+102506,M,0,High School
+102507,M,0,Undergraduate
+102508,F,0,Undergraduate
+102509,F,0,High School
+102510,M,0,Undergraduate
+102511,F,0,Undergraduate
+102512,M,0,Undergraduate
+102513,M,0,Some College
+102514,M,0,Undergraduate
+102515,F,0,High School
+102516,M,0,PhD
+102517,F,0,High School
+102518,M,0,Undergraduate
+102519,F,0,Undergraduate
+102520,M,0,Undergraduate
+102521,M,0,Undergraduate
+102522,F,0,Graduate
+102523,F,0,Undergraduate
+102524,F,0,Undergraduate
+102525,F,0,Undergraduate
+102526,F,0,Undergraduate
+102527,M,0,High School
+102528,M,0,Graduate
+102529,F,0,High School
+102530,M,0,Undergraduate
+102531,F,0,Undergraduate
+102532,M,1,Undergraduate
+102533,M,0,Undergraduate
+102534,M,0,High School
+102535,F,0,Undergraduate
+102536,F,0,High School
+102537,F,0,Undergraduate
+102538,F,0,Undergraduate
+102539,F,0,Undergraduate
+102540,F,0,Undergraduate
+102541,M,0,Undergraduate
+102542,F,0,Graduate
+102543,F,0,Some College
+102544,M,0,High School
+102545,F,0,Undergraduate
+102546,M,0,Graduate
+102547,M,0,Undergraduate
+102548,M,0,Graduate
+102549,F,0,Some College
+102550,F,0,Undergraduate
+102551,M,0,Undergraduate
+102552,M,0,Undergraduate
+102553,M,0,Undergraduate
+102554,M,1,Undergraduate
+102555,F,0,Undergraduate
+102556,M,0,High School
+102557,M,0,Undergraduate
+102558,M,0,High School
+102559,M,0,Some College
+102560,F,0,Graduate
+102561,M,0,Undergraduate
+102562,F,0,Graduate
+102563,M,0,Undergraduate
+102564,M,0,High School
+102565,F,0,Graduate
+102566,M,0,Undergraduate
+102567,M,0,Undergraduate
+102568,M,0,Undergraduate
+102569,F,0,High School
+102570,F,0,Undergraduate
+102571,M,0,High School
+102572,F,0,Undergraduate
+102573,F,0,Undergraduate
+102574,F,0,Undergraduate
+102575,M,0,High School
+102576,F,0,Undergraduate
+102577,F,0,Undergraduate
+102578,F,0,PhD
+102579,M,0,Graduate
+102580,M,0,High School
+102581,F,0,Undergraduate
+102582,F,0,Undergraduate
+102583,M,0,Undergraduate
+102584,M,0,Undergraduate
+102585,M,0,High School
+102586,F,0,Undergraduate
+102587,M,0,Undergraduate
+102588,M,0,Undergraduate
+102589,M,0,High School
+102590,M,0,Undergraduate
+102591,M,0,Undergraduate
+102592,F,0,Undergraduate
+102593,M,0,Undergraduate
+102594,F,0,Undergraduate
+102595,M,0,Undergraduate
+102596,F,0,Undergraduate
+102597,M,0,Undergraduate
+102598,M,0,Undergraduate
+102599,M,0,Undergraduate
+102600,M,0,High School
+102601,M,0,Undergraduate
+102602,F,0,Undergraduate
+102603,M,0,High School
+102604,M,0,Undergraduate
+102605,M,1,Undergraduate
+102606,F,0,Undergraduate
+102607,M,0,Undergraduate
+102608,M,0,High School
+102609,F,0,Undergraduate
+102610,F,0,Undergraduate
+102611,M,0,Undergraduate
+102612,F,0,Undergraduate
+102613,M,1,High School
+102614,F,0,PhD
+102615,F,0,Undergraduate
+102616,F,1,Graduate
+102617,F,0,Undergraduate
+102618,M,0,Undergraduate
+102619,M,0,Undergraduate
+102620,F,0,Undergraduate
+102621,F,0,Undergraduate
+102622,F,0,Graduate
+102623,M,0,Undergraduate
+102624,M,0,Graduate
+102625,F,0,Undergraduate
+102626,F,0,Some College
+102627,F,0,Undergraduate
+102628,M,0,High School
+102629,F,0,Undergraduate
+102630,F,0,Undergraduate
+102631,F,0,Some College
+102632,F,0,Undergraduate
+102633,M,0,Undergraduate
+102634,M,0,Undergraduate
+102635,F,0,High School
+102636,F,0,High School
+102637,M,0,Undergraduate
+102638,M,0,Graduate
+102639,F,0,High School
+102640,M,0,Undergraduate
+102641,M,0,High School
+102642,F,0,Undergraduate
+102643,F,0,Undergraduate
+102644,F,0,Undergraduate
+102645,M,0,Undergraduate
+102646,M,0,Undergraduate
+102647,M,0,Undergraduate
+102648,M,0,Some College
+102649,F,0,High School
+102650,M,0,High School
+102651,M,0,Some College
+102652,F,0,Undergraduate
+102653,F,0,High School
+102654,M,0,Undergraduate
+102655,F,0,High School
+102656,F,0,Undergraduate
+102657,M,0,High School
+102658,F,0,Undergraduate
+102659,F,0,Some College
+102660,F,0,Undergraduate
+102661,F,0,High School
+102662,M,0,High School
+102663,M,1,Undergraduate
+102664,M,0,High School
+102665,F,0,Undergraduate
+102666,M,0,Graduate
+102667,M,0,Undergraduate
+102668,F,0,Undergraduate
+102669,M,0,Undergraduate
+102670,F,0,Undergraduate
+102671,F,0,Graduate
+102672,F,0,Undergraduate
+102673,M,0,Undergraduate
+102674,F,0,High School
+102675,F,0,High School
+102676,M,0,Undergraduate
+102677,F,0,Undergraduate
+102678,F,1,Undergraduate
+102679,F,0,High School
+102680,M,0,Undergraduate
+102681,M,0,Undergraduate
+102682,F,1,Undergraduate
+102683,M,0,High School
+102684,M,0,Undergraduate
+102685,M,0,Undergraduate
+102686,M,0,Undergraduate
+102687,F,1,High School
+102688,M,0,Undergraduate
+102689,M,0,Undergraduate
+102690,M,0,Undergraduate
+102691,F,0,Some College
+102692,F,0,High School
+102693,M,0,Undergraduate
+102694,F,0,Undergraduate
+102695,M,0,Undergraduate
+102696,F,0,Graduate
+102697,F,0,High School
+102698,M,0,Undergraduate
+102699,M,0,Some College
+102700,M,0,Some College
+102701,F,0,Some College
+102702,F,1,Undergraduate
+102703,F,0,Undergraduate
+102704,M,0,High School
+102705,M,0,High School
+102706,M,0,High School
+102707,F,0,High School
+102708,F,0,PhD
+102709,F,0,PhD
+102710,F,0,Undergraduate
+102711,F,0,Undergraduate
+102712,M,0,Undergraduate
+102713,M,0,High School
+102714,M,0,Graduate
+102715,M,0,PhD
+102716,M,0,Undergraduate
+102717,M,0,Undergraduate
+102718,M,0,Undergraduate
+102719,F,0,Undergraduate
+102720,M,0,High School
+102721,F,0,High School
+102722,F,0,High School
+102723,F,1,Undergraduate
+102724,M,0,Undergraduate
+102725,M,0,Some College
+102726,F,0,Undergraduate
+102727,F,1,Some College
+102728,F,0,Undergraduate
+102729,F,0,Graduate
+102730,F,0,Undergraduate
+102731,M,0,High School
+102732,F,0,High School
+102733,F,0,Undergraduate
+102734,F,0,Undergraduate
+102735,M,0,Undergraduate
+102736,M,0,Some College
+102737,M,0,High School
+102738,M,0,Undergraduate
+102739,F,0,High School
+102740,M,0,Some College
+102741,M,0,Undergraduate
+102742,M,0,Undergraduate
+102743,F,0,Undergraduate
+102744,M,0,Undergraduate
+102745,M,0,Undergraduate
+102746,M,0,Undergraduate
+102747,M,0,Graduate
+102748,M,0,Undergraduate
+102749,F,0,Undergraduate
+102750,F,0,High School
+102751,M,0,High School
+102752,M,0,Graduate
+102753,F,0,Undergraduate
+102754,M,0,Undergraduate
+102755,M,1,Undergraduate
+102756,F,0,Undergraduate
+102757,M,0,Undergraduate
+102758,M,0,High School
+102759,M,0,High School
+102760,M,0,Graduate
+102761,M,0,Undergraduate
+102762,M,0,Some College
+102763,M,0,Undergraduate
+102764,F,0,Some College
+102765,F,0,Undergraduate
+102766,M,0,Undergraduate
+102767,M,0,High School
+102768,M,0,High School
+102769,M,0,Undergraduate
+102770,M,0,Undergraduate
+102771,F,0,Undergraduate
+102772,M,0,Undergraduate
+102773,F,0,Undergraduate
+102774,M,0,Undergraduate
+102775,M,0,High School
+102776,M,0,Undergraduate
+102777,F,0,Undergraduate
+102778,F,0,Undergraduate
+102779,M,0,PhD
+102780,M,0,Undergraduate
+102781,M,0,Some College
+102782,M,0,Undergraduate
+102783,M,0,Undergraduate
+102784,M,1,Undergraduate
+102785,M,0,High School
+102786,F,0,Undergraduate
+102787,M,0,Graduate
+102788,M,0,Undergraduate
+102789,M,0,Undergraduate
+102790,F,0,Some College
+102791,M,0,Undergraduate
+102792,M,1,Undergraduate
+102793,F,0,Undergraduate
+102794,M,0,Undergraduate
+102795,F,0,High School
+102796,F,0,High School
+102797,F,0,High School
+102798,M,0,Graduate
+102799,F,0,Undergraduate
+102800,M,0,Undergraduate
+102801,M,1,Undergraduate
+102802,M,0,Undergraduate
+102803,F,0,Undergraduate
+102804,M,0,Undergraduate
+102805,F,0,Graduate
+102806,F,0,High School
+102807,F,0,Undergraduate
+102808,M,0,PhD
+102809,F,0,High School
+102810,F,0,Undergraduate
+102811,M,0,Graduate
+102812,F,0,Undergraduate
+102813,F,0,High School
+102814,F,0,Undergraduate
+102815,F,0,Undergraduate
+102816,F,0,Undergraduate
+102817,F,0,Graduate
+102818,F,0,Some College
+102819,F,0,High School
+102820,F,0,PhD
+102821,F,0,Graduate
+102822,F,0,Undergraduate
+102823,M,0,Undergraduate
+102824,M,0,High School
+102825,M,0,Undergraduate
+102826,F,0,Undergraduate
+102827,F,0,Undergraduate
+102828,F,0,Undergraduate
+102829,M,0,Some College
+102830,F,0,Undergraduate
+102831,F,0,Some College
+102832,M,0,Undergraduate
+102833,M,0,High School
+102834,M,0,Undergraduate
+102835,F,0,High School
+102836,M,0,Some College
+102837,M,0,Undergraduate
+102838,F,0,High School
+102839,F,0,Undergraduate
+102840,F,0,Undergraduate
+102841,M,1,Undergraduate
+102842,F,0,Undergraduate
+102843,F,0,Undergraduate
+102844,M,0,Undergraduate
+102845,F,0,High School
+102846,F,0,Undergraduate
+102847,F,0,Undergraduate
+102848,M,0,Undergraduate
+102849,M,0,Undergraduate
+102850,F,0,Undergraduate
+102851,F,0,Undergraduate
+102852,M,0,Undergraduate
+102853,M,0,Undergraduate
+102854,M,0,Undergraduate
+102855,M,0,High School
+102856,F,0,High School
+102857,M,0,High School
+102858,M,0,Undergraduate
+102859,F,0,Undergraduate
+102860,F,0,Undergraduate
+102861,M,0,High School
+102862,F,0,Undergraduate
+102863,F,0,Undergraduate
+102864,M,0,PhD
+102865,M,0,High School
+102866,F,0,Undergraduate
+102867,M,0,Undergraduate
+102868,M,0,Some College
+102869,F,0,Undergraduate
+102870,F,0,Undergraduate
+102871,F,0,Undergraduate
+102872,M,0,Undergraduate
+102873,M,0,Undergraduate
+102874,F,0,Undergraduate
+102875,F,1,Undergraduate
+102876,F,0,Some College
+102877,F,0,Undergraduate
+102878,F,0,High School
+102879,F,0,Some College
+102880,M,0,Undergraduate
+102881,F,0,Undergraduate
+102882,M,0,Undergraduate
+102883,F,0,Undergraduate
+102884,F,0,High School
+102885,F,0,PhD
+102886,M,0,Undergraduate
+102887,F,0,Undergraduate
+102888,F,0,High School
+102889,F,0,High School
+102890,M,0,Undergraduate
+102891,F,0,Undergraduate
+102892,F,0,High School
+102893,F,0,High School
+102894,M,0,High School
+102895,M,0,High School
+102896,M,0,Undergraduate
+102897,F,0,Undergraduate
+102898,F,0,Undergraduate
+102899,F,0,Undergraduate
+102900,F,0,Undergraduate
+102901,M,0,High School
+102902,F,0,Graduate
+102903,F,0,High School
+102904,M,0,Undergraduate
+102905,F,0,Undergraduate
+102906,F,0,Undergraduate
+102907,F,0,High School
+102908,M,0,Undergraduate
+102909,F,0,Some College
+102910,F,0,Undergraduate
+102911,M,0,High School
+102912,M,0,Some College
+102913,M,0,High School
+102914,M,0,Undergraduate
+102915,M,0,Some College
+102916,F,0,Graduate
+102917,M,0,Undergraduate
+102918,M,0,Undergraduate
+102919,F,0,Undergraduate
+102920,M,0,Undergraduate
+102921,M,0,Undergraduate
+102922,F,0,Undergraduate
+102923,M,0,Undergraduate
+102924,F,0,Undergraduate
+102925,F,0,Undergraduate
+102926,M,0,Undergraduate
+102927,F,0,High School
+102928,M,0,Undergraduate
+102929,F,0,Undergraduate
+102930,F,0,Undergraduate
+102931,F,0,Undergraduate
+102932,F,0,Undergraduate
+102933,M,0,Undergraduate
+102934,M,0,Undergraduate
+102935,M,0,Undergraduate
+102936,F,0,Undergraduate
+102937,M,0,Undergraduate
+102938,M,0,Undergraduate
+102939,M,0,Undergraduate
+102940,M,0,High School
+102941,M,0,Graduate
+102942,M,0,High School
+102943,F,0,PhD
+102944,F,0,Undergraduate
+102945,F,0,High School
+102946,M,0,Some College
+102947,M,0,High School
+102948,M,0,Some College
+102949,F,0,Undergraduate
+102950,M,0,High School
+102951,M,0,Undergraduate
+102952,F,0,Some College
+102953,M,0,High School
+102954,M,0,Undergraduate
+102955,M,0,Undergraduate
+102956,F,0,Undergraduate
+102957,F,0,High School
+102958,F,0,Undergraduate
+102959,F,0,Undergraduate
+102960,M,0,Undergraduate
+102961,M,0,Undergraduate
+102962,F,0,High School
+102963,F,1,Undergraduate
+102964,F,0,Undergraduate
+102965,F,0,High School
+102966,M,0,High School
+102967,F,0,Undergraduate
+102968,F,0,High School
+102969,F,0,Undergraduate
+102970,M,0,Undergraduate
+102971,F,0,Undergraduate
+102972,F,0,Undergraduate
+102973,F,0,Undergraduate
+102974,M,0,Undergraduate
+102975,M,0,Undergraduate
+102976,F,0,Some College
+102977,M,0,Undergraduate
+102978,M,0,Undergraduate
+102979,M,0,High School
+102980,M,0,Undergraduate
+102981,M,0,Undergraduate
+102982,M,0,Graduate
+102983,F,0,Undergraduate
+102984,M,0,High School
+102985,M,0,High School
+102986,M,0,High School
+102987,F,0,Undergraduate
+102988,F,0,Undergraduate
+102989,F,0,Undergraduate
+102990,F,0,Undergraduate
+102991,M,0,High School
+102992,F,1,Graduate
+102993,M,0,Undergraduate
+102994,F,0,Undergraduate
+102995,M,0,PhD
+102996,M,0,Undergraduate
+102997,F,0,Undergraduate
+102998,M,0,Undergraduate
+102999,F,1,Undergraduate
+103000,F,0,Some College
+103001,M,0,High School
+103002,F,0,Undergraduate
+103003,M,0,Undergraduate
+103004,M,0,Undergraduate
+103005,F,0,Undergraduate
+103006,F,0,Undergraduate
+103007,M,0,Undergraduate
+103008,F,0,Undergraduate
+103009,F,0,Undergraduate
+103010,M,1,Undergraduate
+103011,F,0,Undergraduate
+103012,M,0,Undergraduate
+103013,M,0,Undergraduate
+103014,F,0,Graduate
+103015,F,0,Undergraduate
+103016,M,0,Undergraduate
+103017,F,0,Undergraduate
+103018,M,0,Graduate
+103019,F,0,Undergraduate
+103020,F,0,Undergraduate
+103021,F,0,Some College
+103022,F,0,PhD
+103023,F,0,Undergraduate
+103024,M,0,Undergraduate
+103025,F,0,Undergraduate
+103026,F,0,Undergraduate
+103027,M,0,Undergraduate
+103028,F,0,Graduate
+103029,M,0,High School
+103030,M,0,High School
+103031,M,0,Undergraduate
+103032,F,0,Undergraduate
+103033,M,0,Undergraduate
+103034,F,0,Undergraduate
+103035,M,0,Undergraduate
+103036,F,0,High School
+103037,M,0,PhD
+103038,M,1,Undergraduate
+103039,F,0,Undergraduate
+103040,M,0,Undergraduate
+103041,F,0,Undergraduate
+103042,M,0,Undergraduate
+103043,M,0,High School
+103044,M,0,Undergraduate
+103045,M,0,Undergraduate
+103046,F,0,High School
+103047,M,0,High School
+103048,F,0,Undergraduate
+103049,M,0,High School
+103050,F,0,Undergraduate
+103051,M,0,Undergraduate
+103052,M,0,Undergraduate
+103053,M,0,Graduate
+103054,M,0,High School
+103055,M,0,Undergraduate
+103056,F,0,Graduate
+103057,M,0,Undergraduate
+103058,F,0,Undergraduate
+103059,F,0,Undergraduate
+103060,F,0,Undergraduate
+103061,M,0,High School
+103062,F,0,Undergraduate
+103063,M,0,High School
+103064,F,0,Undergraduate
+103065,M,0,Undergraduate
+103066,M,0,Undergraduate
+103067,F,0,Undergraduate
+103068,M,0,Undergraduate
+103069,M,0,Undergraduate
+103070,M,0,Undergraduate
+103071,M,0,Undergraduate
+103072,F,0,Some College
+103073,M,0,Undergraduate
+103074,F,0,High School
+103075,M,0,High School
+103076,F,0,Undergraduate
+103077,M,0,Undergraduate
+103078,M,0,High School
+103079,F,0,Undergraduate
+103080,F,0,Undergraduate
+103081,M,0,Undergraduate
+103082,F,0,High School
+103083,F,0,Undergraduate
+103084,F,0,Undergraduate
+103085,F,0,High School
+103086,F,0,Undergraduate
+103087,F,0,Undergraduate
+103088,F,0,Undergraduate
+103089,F,0,High School
+103090,F,0,High School
+103091,M,1,High School
+103092,F,0,Undergraduate
+103093,M,0,Undergraduate
+103094,M,0,High School
+103095,M,0,Undergraduate
+103096,M,1,High School
+103097,F,0,High School
+103098,F,0,Undergraduate
+103099,M,0,Graduate
+103100,F,0,Undergraduate
+103101,M,0,Undergraduate
+103102,M,0,Undergraduate
+103103,F,0,Undergraduate
+103104,F,0,Undergraduate
+103105,M,0,Undergraduate
+103106,M,0,High School
+103107,M,0,High School
+103108,F,0,High School
+103109,F,0,Undergraduate
+103110,F,0,Undergraduate
+103111,M,0,Undergraduate
+103112,M,0,Some College
+103113,M,0,High School
+103114,F,0,Graduate
+103115,M,0,Undergraduate
+103116,M,0,Graduate
+103117,F,0,High School
+103118,F,0,Undergraduate
+103119,M,0,Undergraduate
+103120,M,0,Undergraduate
+103121,M,0,Undergraduate
+103122,F,0,Undergraduate
+103123,F,0,Undergraduate
+103124,M,1,Undergraduate
+103125,M,1,Graduate
+103126,M,0,Graduate
+103127,M,0,Undergraduate
+103128,F,0,Graduate
+103129,F,0,Undergraduate
+103130,F,0,Undergraduate
+103131,F,0,Undergraduate
+103132,M,0,Undergraduate
+103133,F,0,PhD
+103134,M,0,Undergraduate
+103135,F,0,Undergraduate
+103136,M,0,Undergraduate
+103137,M,0,PhD
+103138,F,0,High School
+103139,F,0,Undergraduate
+103140,F,0,Undergraduate
+103141,M,0,Undergraduate
+103142,M,0,Undergraduate
+103143,F,0,Undergraduate
+103144,M,0,Undergraduate
+103145,F,0,Undergraduate
+103146,M,0,Graduate
+103147,M,0,Some College
+103148,M,0,Some College
+103149,M,0,Undergraduate
+103150,F,0,Undergraduate
+103151,M,0,Some College
+103152,F,0,High School
+103153,M,0,Undergraduate
+103154,F,0,Undergraduate
+103155,M,0,High School
+103156,F,0,Undergraduate
+103157,F,0,Undergraduate
+103158,M,0,Undergraduate
+103159,M,0,Undergraduate
+103160,M,0,Undergraduate
+103161,F,0,Undergraduate
+103162,M,0,Undergraduate
+103163,M,0,Undergraduate
+103164,M,0,Undergraduate
+103165,F,0,High School
+103166,M,0,Undergraduate
+103167,M,0,Undergraduate
+103168,M,0,Undergraduate
+103169,M,0,Undergraduate
+103170,M,0,High School
+103171,F,0,Undergraduate
+103172,F,0,Undergraduate
+103173,M,0,Undergraduate
+103174,F,1,Undergraduate
+103175,M,0,Undergraduate
+103176,M,1,Undergraduate
+103177,M,0,PhD
+103178,M,0,Undergraduate
+103179,F,0,Undergraduate
+103180,F,0,PhD
+103181,M,0,Undergraduate
+103182,F,0,Undergraduate
+103183,M,0,Undergraduate
+103184,M,1,High School
+103185,M,0,Undergraduate
+103186,M,0,High School
+103187,F,0,Some College
+103188,M,0,Undergraduate
+103189,M,0,Undergraduate
+103190,F,0,Undergraduate
+103191,F,0,Undergraduate
+103192,F,1,Undergraduate
+103193,F,0,Undergraduate
+103194,F,0,Undergraduate
+103195,M,0,Undergraduate
+103196,F,0,Undergraduate
+103197,M,1,Undergraduate
+103198,M,0,PhD
+103199,M,0,Undergraduate
+103200,F,0,Undergraduate
+103201,F,0,Undergraduate
+103202,M,0,Undergraduate
+103203,M,0,Undergraduate
+103204,M,0,Some College
+103205,F,0,Some College
+103206,F,0,Undergraduate
+103207,M,0,Undergraduate
+103208,F,0,Undergraduate
+103209,F,0,PhD
+103210,M,0,Some College
+103211,F,0,Graduate
+103212,F,0,High School
+103213,M,0,High School
+103214,F,0,Undergraduate
+103215,M,0,Undergraduate
+103216,M,0,Undergraduate
+103217,F,0,Graduate
+103218,F,0,Undergraduate
+103219,F,0,Graduate
+103220,M,0,Undergraduate
+103221,M,0,High School
+103222,M,0,Undergraduate
+103223,M,0,High School
+103224,F,0,High School
+103225,M,0,Some College
+103226,M,0,High School
+103227,M,0,Some College
+103228,M,0,High School
+103229,M,0,Undergraduate
+103230,M,0,Undergraduate
+103231,M,0,Undergraduate
+103232,M,0,Undergraduate
+103233,F,0,Undergraduate
+103234,M,0,Undergraduate
+103235,F,0,Undergraduate
+103236,M,0,Undergraduate
+103237,F,0,PhD
+103238,F,0,Undergraduate
+103239,M,0,High School
+103240,M,0,Undergraduate
+103241,F,0,Undergraduate
+103242,F,0,Undergraduate
+103243,F,0,PhD
+103244,F,0,High School
+103245,M,0,Undergraduate
+103246,M,0,Undergraduate
+103247,F,0,High School
+103248,M,0,Undergraduate
+103249,M,0,Undergraduate
+103250,M,0,Undergraduate
+103251,M,0,Undergraduate
+103252,F,0,Undergraduate
+103253,M,1,Undergraduate
+103254,M,0,High School
+103255,F,1,High School
+103256,F,0,Undergraduate
+103257,M,0,Undergraduate
+103258,F,0,Undergraduate
+103259,F,0,Undergraduate
+103260,F,0,Undergraduate
+103261,M,0,High School
+103262,M,0,Undergraduate
+103263,F,0,Graduate
+103264,M,0,Undergraduate
+103265,F,0,Undergraduate
+103266,F,0,PhD
+103267,M,0,Undergraduate
+103268,F,0,Undergraduate
+103269,F,0,Undergraduate
+103270,M,0,Undergraduate
+103271,F,0,High School
+103272,F,0,High School
+103273,M,0,Graduate
+103274,F,0,High School
+103275,M,0,High School
+103276,F,0,Undergraduate
+103277,F,0,Undergraduate
+103278,F,0,Undergraduate
+103279,F,0,Undergraduate
+103280,M,0,Undergraduate
+103281,M,0,Undergraduate
+103282,F,0,Undergraduate
+103283,M,0,Some College
+103284,M,0,Undergraduate
+103285,F,0,High School
+103286,F,0,Undergraduate
+103287,M,0,High School
+103288,M,0,Undergraduate
+103289,F,0,High School
+103290,M,1,Some College
+103291,F,0,Undergraduate
+103292,M,0,Some College
+103293,F,0,Undergraduate
+103294,M,0,Undergraduate
+103295,F,0,High School
+103296,F,0,Graduate
+103297,F,0,Undergraduate
+103298,F,0,High School
+103299,F,0,Undergraduate
+103300,M,0,PhD
+103301,F,0,High School
+103302,F,0,Undergraduate
+103303,F,0,Undergraduate
+103304,M,0,Undergraduate
+103305,M,0,Undergraduate
+103306,M,0,Undergraduate
+103307,M,0,PhD
+103308,F,0,High School
+103309,F,0,High School
+103310,F,0,Undergraduate
+103311,M,0,Undergraduate
+103312,F,0,Some College
+103313,F,0,Undergraduate
+103314,M,0,Undergraduate
+103315,F,0,Some College
+103316,F,0,Some College
+103317,M,0,High School
+103318,F,0,Undergraduate
+103319,F,0,High School
+103320,M,0,Undergraduate
+103321,F,0,High School
+103322,M,0,Undergraduate
+103323,M,0,High School
+103324,F,1,Undergraduate
+103325,F,0,Undergraduate
+103326,M,0,Undergraduate
+103327,F,0,PhD
+103328,M,0,High School
+103329,M,0,Undergraduate
+103330,M,0,High School
+103331,M,0,High School
+103332,F,0,Undergraduate
+103333,F,0,Undergraduate
+103334,F,0,Undergraduate
+103335,M,0,Some College
+103336,M,0,Undergraduate
+103337,F,0,Undergraduate
+103338,F,0,Undergraduate
+103339,F,0,High School
+103340,F,0,Undergraduate
+103341,M,0,Graduate
+103342,M,0,Undergraduate
+103343,F,0,Undergraduate
+103344,M,0,Undergraduate
+103345,F,0,Undergraduate
+103346,M,0,Undergraduate
+103347,M,1,Undergraduate
+103348,F,0,Some College
+103349,F,0,Undergraduate
+103350,F,0,Some College
+103351,M,0,Undergraduate
+103352,M,0,Some College
+103353,F,0,Undergraduate
+103354,M,0,Undergraduate
+103355,M,0,Graduate
+103356,F,0,High School
+103357,M,0,Graduate
+103358,F,0,Undergraduate
+103359,M,0,Undergraduate
+103360,M,0,Undergraduate
+103361,M,0,Undergraduate
+103362,M,0,Undergraduate
+103363,F,0,Some College
+103364,M,0,High School
+103365,M,0,Undergraduate
+103366,F,0,PhD
+103367,F,0,Undergraduate
+103368,F,0,Some College
+103369,F,0,Undergraduate
+103370,M,0,Undergraduate
+103371,M,0,High School
+103372,F,0,Undergraduate
+103373,M,0,Graduate
+103374,F,0,PhD
+103375,F,0,Undergraduate
+103376,M,0,Undergraduate
+103377,M,0,Undergraduate
+103378,M,0,Undergraduate
+103379,M,0,PhD
+103380,M,0,Undergraduate
+103381,M,0,High School
+103382,M,0,Undergraduate
+103383,M,0,Undergraduate
+103384,M,0,Undergraduate
+103385,M,0,Graduate
+103386,M,0,Undergraduate
+103387,F,0,Undergraduate
+103388,F,0,Undergraduate
+103389,M,0,Undergraduate
+103390,M,0,Graduate
+103391,M,0,Undergraduate
+103392,F,0,Undergraduate
+103393,F,0,Undergraduate
+103394,M,0,Undergraduate
+103395,F,0,Undergraduate
+103396,M,0,Undergraduate
+103397,F,0,High School
+103398,M,0,Graduate
+103399,M,0,Undergraduate
+103400,F,0,High School
+103401,F,0,High School
+103402,F,0,Undergraduate
+103403,M,0,Undergraduate
+103404,M,0,Undergraduate
+103405,M,0,Undergraduate
+103406,M,0,Some College
+103407,F,0,Undergraduate
+103408,M,0,Undergraduate
+103409,F,0,Undergraduate
+103410,F,0,High School
+103411,F,0,Undergraduate
+103412,M,1,Undergraduate
+103413,F,0,Undergraduate
+103414,M,0,Undergraduate
+103415,F,0,Undergraduate
+103416,M,0,Undergraduate
+103417,M,0,Undergraduate
+103418,M,0,Undergraduate
+103419,F,0,Undergraduate
+103420,M,0,Undergraduate
+103421,F,0,High School
+103422,M,0,PhD
+103423,M,0,Undergraduate
+103424,F,0,Some College
+103425,F,0,Undergraduate
+103426,F,0,PhD
+103427,M,0,Graduate
+103428,M,1,Some College
+103429,F,0,Undergraduate
+103430,F,0,Undergraduate
+103431,M,0,High School
+103432,F,0,Undergraduate
+103433,F,0,High School
+103434,M,0,Undergraduate
+103435,M,0,Some College
+103436,F,0,Undergraduate
+103437,F,0,Undergraduate
+103438,M,0,Undergraduate
+103439,M,0,Undergraduate
+103440,M,0,High School
+103441,F,0,Undergraduate
+103442,M,0,Undergraduate
+103443,M,0,Some College
+103444,F,0,Undergraduate
+103445,F,0,Undergraduate
+103446,F,0,Undergraduate
+103447,F,0,Undergraduate
+103448,F,0,Undergraduate
+103449,F,1,Undergraduate
+103450,F,0,Undergraduate
+103451,M,0,Undergraduate
+103452,M,0,Undergraduate
+103453,M,0,Undergraduate
+103454,F,0,Undergraduate
+103455,M,0,Undergraduate
+103456,F,0,Undergraduate
+103457,F,0,Undergraduate
+103458,F,1,Undergraduate
+103459,M,0,Undergraduate
+103460,F,0,Undergraduate
+103461,M,1,Undergraduate
+103462,M,0,Some College
+103463,M,0,Undergraduate
+103464,F,1,Undergraduate
+103465,M,0,Undergraduate
+103466,F,0,Undergraduate
+103467,M,0,PhD
+103468,F,0,Undergraduate
+103469,M,1,Undergraduate
+103470,M,0,Undergraduate
+103471,F,0,Undergraduate
+103472,F,0,Undergraduate
+103473,M,0,Undergraduate
+103474,M,0,Undergraduate
+103475,F,0,Undergraduate
+103476,M,1,Graduate
+103477,M,0,Undergraduate
+103478,M,0,Undergraduate
+103479,M,0,Undergraduate
+103480,M,0,Undergraduate
+103481,M,0,Some College
+103482,F,0,Undergraduate
+103483,F,0,Undergraduate
+103484,M,0,High School
+103485,M,0,Undergraduate
+103486,M,0,Undergraduate
+103487,M,0,Undergraduate
+103488,F,0,Undergraduate
+103489,F,0,Graduate
+103490,M,0,Undergraduate
+103491,F,1,Undergraduate
+103492,F,0,Undergraduate
+103493,M,0,Undergraduate
+103494,F,0,Undergraduate
+103495,F,0,Undergraduate
+103496,M,0,Undergraduate
+103497,M,1,High School
+103498,F,0,Undergraduate
+103499,F,0,Graduate
+103500,M,0,Undergraduate
+103501,M,0,High School
+103502,M,0,Undergraduate
+103503,M,0,Undergraduate
+103504,M,0,Graduate
+103505,M,0,Undergraduate
+103506,F,0,Graduate
+103507,M,0,Undergraduate
+103508,M,0,Undergraduate
+103509,F,0,Undergraduate
+103510,F,0,Undergraduate
+103511,F,0,Undergraduate
+103512,F,1,Undergraduate
+103513,M,0,Undergraduate
+103514,F,0,Undergraduate
+103515,F,0,Undergraduate
+103516,F,0,Undergraduate
+103517,M,0,High School
+103518,F,0,High School
+103519,M,0,Graduate
+103520,M,0,Undergraduate
+103521,M,0,Undergraduate
+103522,F,0,Undergraduate
+103523,M,0,Graduate
+103524,F,0,Some College
+103525,M,0,Graduate
+103526,M,0,PhD
+103527,F,0,Undergraduate
+103528,M,0,Undergraduate
+103529,F,0,Undergraduate
+103530,M,0,Undergraduate
+103531,M,0,Undergraduate
+103532,M,0,High School
+103533,F,0,Undergraduate
+103534,F,0,Undergraduate
+103535,F,0,Undergraduate
+103536,F,0,Undergraduate
+103537,M,0,Undergraduate
+103538,M,0,Graduate
+103539,M,0,Undergraduate
+103540,F,0,Undergraduate
+103541,F,0,Undergraduate
+103542,F,0,Undergraduate
+103543,F,0,Some College
+103544,M,0,High School
+103545,M,0,Graduate
+103546,F,0,Undergraduate
+103547,F,1,Graduate
+103548,M,0,Graduate
+103549,M,0,Undergraduate
+103550,F,0,Graduate
+103551,M,0,Undergraduate
+103552,F,0,Graduate
+103553,F,0,Graduate
+103554,F,0,Graduate
+103555,M,0,Undergraduate
+103556,F,0,Some College
+103557,M,0,Undergraduate
+103558,F,0,Undergraduate
+103559,M,0,Undergraduate
+103560,M,0,Undergraduate
+103561,F,0,Undergraduate
+103562,F,0,Undergraduate
+103563,M,0,High School
+103564,M,0,Undergraduate
+103565,M,0,Undergraduate
+103566,M,0,Undergraduate
+103567,M,0,Undergraduate
+103568,M,0,Undergraduate
+103569,F,0,Some College
+103570,F,0,Graduate
+103571,F,0,Undergraduate
+103572,M,0,Undergraduate
+103573,F,0,Some College
+103574,F,0,Undergraduate
+103575,F,0,Undergraduate
+103576,M,0,Undergraduate
+103577,F,1,Undergraduate
+103578,M,1,Undergraduate
+103579,F,0,Undergraduate
+103580,F,0,Undergraduate
+103581,M,0,Undergraduate
+103582,F,0,Undergraduate
+103583,M,0,Undergraduate
+103584,M,0,Undergraduate
+103585,M,0,Undergraduate
+103586,M,0,Undergraduate
+103587,M,0,Undergraduate
+103588,M,0,Undergraduate
+103589,M,0,High School
+103590,M,0,Undergraduate
+103591,M,0,Undergraduate
+103592,M,0,High School
+103593,M,0,Undergraduate
+103594,F,0,Graduate
+103595,M,0,High School
+103596,F,0,Undergraduate
+103597,M,0,Undergraduate
+103598,M,0,High School
+103599,M,0,Undergraduate
+103600,F,0,Undergraduate
+103601,F,0,Undergraduate
+103602,F,0,Undergraduate
+103603,M,0,Graduate
+103604,M,0,Undergraduate
+103605,M,0,Undergraduate
+103606,M,0,High School
+103607,F,0,Undergraduate
+103608,M,0,Undergraduate
+103609,M,0,Undergraduate
+103610,F,0,Undergraduate
+103611,F,0,Undergraduate
+103612,F,1,Undergraduate
+103613,M,1,High School
+103614,M,0,Undergraduate
+103615,M,0,Undergraduate
+103616,M,0,High School
+103617,F,0,Undergraduate
+103618,F,0,Undergraduate
+103619,F,0,Undergraduate
+103620,M,0,Undergraduate
+103621,F,0,Undergraduate
+103622,F,0,High School
+103623,F,0,Undergraduate
+103624,F,0,Undergraduate
+103625,M,0,Undergraduate
+103626,F,0,Undergraduate
+103627,M,1,Undergraduate
+103628,M,0,Undergraduate
+103629,M,0,Graduate
+103630,F,0,Undergraduate
+103631,F,0,Undergraduate
+103632,M,0,Undergraduate
+103633,M,0,Some College
+103634,F,0,Undergraduate
+103635,F,0,Undergraduate
+103636,F,0,Undergraduate
+103637,M,0,Undergraduate
+103638,F,0,Undergraduate
+103639,F,0,Some College
+103640,F,0,Undergraduate
+103641,M,0,Undergraduate
+103642,F,0,High School
+103643,M,0,Undergraduate
+103644,F,0,PhD
+103645,F,0,Undergraduate
+103646,M,0,Undergraduate
+103647,M,0,Undergraduate
+103648,M,0,Undergraduate
+103649,F,1,Undergraduate
+103650,M,0,Undergraduate
+103651,F,0,Some College
+103652,M,0,Undergraduate
+103653,M,1,Undergraduate
+103654,M,0,High School
+103655,F,0,Undergraduate
+103656,F,0,Undergraduate
+103657,F,0,Undergraduate
+103658,F,0,Undergraduate
+103659,M,0,High School
+103660,M,0,Undergraduate
+103661,M,0,Undergraduate
+103662,M,0,Undergraduate
+103663,M,0,Undergraduate
+103664,F,0,Undergraduate
+103665,F,0,Undergraduate
+103666,F,0,Graduate
+103667,M,0,Undergraduate
+103668,F,0,Undergraduate
+103669,F,0,Graduate
+103670,F,0,Graduate
+103671,M,0,Undergraduate
+103672,M,0,Undergraduate
+103673,F,0,Undergraduate
+103674,M,0,PhD
+103675,M,0,High School
+103676,M,0,Undergraduate
+103677,F,0,Undergraduate
+103678,M,0,Undergraduate
+103679,M,0,PhD
+103680,M,0,High School
+103681,M,0,High School
+103682,M,0,Undergraduate
+103683,F,0,High School
+103684,M,0,High School
+103685,M,0,Undergraduate
+103686,M,1,Some College
+103687,F,0,High School
+103688,M,1,Undergraduate
+103689,M,0,Undergraduate
+103690,F,0,Undergraduate
+103691,F,0,Undergraduate
+103692,M,0,Undergraduate
+103693,M,0,Undergraduate
+103694,M,1,Undergraduate
+103695,F,0,High School
+103696,M,1,High School
+103697,F,0,Some College
+103698,F,0,Undergraduate
+103699,M,0,High School
+103700,M,0,High School
+103701,M,0,Undergraduate
+103702,F,0,Undergraduate
+103703,F,0,Some College
+103704,F,0,Undergraduate
+103705,M,0,Undergraduate
+103706,F,0,Undergraduate
+103707,M,0,High School
+103708,F,0,Undergraduate
+103709,F,0,Undergraduate
+103710,M,0,Graduate
+103711,M,0,Undergraduate
+103712,M,0,Undergraduate
+103713,F,0,Graduate
+103714,M,0,High School
+103715,F,0,Undergraduate
+103716,M,0,Undergraduate
+103717,F,0,Some College
+103718,F,0,Undergraduate
+103719,F,0,Undergraduate
+103720,F,0,Undergraduate
+103721,M,0,Undergraduate
+103722,F,0,Some College
+103723,M,0,Undergraduate
+103724,M,0,Undergraduate
+103725,M,0,Undergraduate
+103726,F,0,Undergraduate
+103727,F,0,Undergraduate
+103728,M,0,Undergraduate
+103729,F,0,Undergraduate
+103730,F,0,High School
+103731,F,0,Undergraduate
+103732,F,0,Undergraduate
+103733,M,0,Undergraduate
+103734,M,0,Undergraduate
+103735,M,0,Undergraduate
+103736,M,0,Undergraduate
+103737,M,0,High School
+103738,F,0,PhD
+103739,M,0,Some College
+103740,F,0,Undergraduate
+103741,F,0,High School
+103742,M,0,Undergraduate
+103743,M,0,High School
+103744,M,0,Undergraduate
+103745,M,1,Undergraduate
+103746,M,0,Undergraduate
+103747,M,0,Undergraduate
+103748,M,0,Undergraduate
+103749,F,0,Some College
+103750,M,0,Undergraduate
+103751,M,0,Undergraduate
+103752,F,0,Undergraduate
+103753,F,0,High School
+103754,M,0,Undergraduate
+103755,M,0,Undergraduate
+103756,M,0,Undergraduate
+103757,M,0,Undergraduate
+103758,F,0,High School
+103759,M,0,Graduate
+103760,F,0,High School
+103761,F,0,Undergraduate
+103762,M,0,Undergraduate
+103763,M,0,Some College
+103764,M,0,Undergraduate
+103765,M,0,Undergraduate
+103766,M,0,Graduate
+103767,F,0,Some College
+103768,M,0,Undergraduate
+103769,F,1,Undergraduate
+103770,F,0,Undergraduate
+103771,F,0,Undergraduate
+103772,M,0,Undergraduate
+103773,M,0,Undergraduate
+103774,M,0,Undergraduate
+103775,F,0,Some College
+103776,F,0,High School
+103777,M,1,Undergraduate
+103778,M,0,Undergraduate
+103779,F,0,Undergraduate
+103780,F,0,High School
+103781,M,0,Graduate
+103782,M,0,High School
+103783,F,0,High School
+103784,M,0,High School
+103785,F,0,High School
+103786,M,0,Undergraduate
+103787,F,0,Graduate
+103788,M,0,Undergraduate
+103789,M,0,Undergraduate
+103790,F,0,Undergraduate
+103791,M,0,Undergraduate
+103792,F,0,Undergraduate
+103793,M,0,High School
+103794,F,0,Undergraduate
+103795,F,0,High School
+103796,F,0,High School
+103797,M,0,Undergraduate
+103798,F,0,Undergraduate
+103799,F,0,High School
+103800,M,0,Undergraduate
+103801,F,0,Undergraduate
+103802,M,0,Undergraduate
+103803,F,0,Graduate
+103804,F,0,Some College
+103805,F,0,Undergraduate
+103806,F,0,High School
+103807,M,0,Undergraduate
+103808,F,0,Undergraduate
+103809,F,0,Undergraduate
+103810,F,0,Undergraduate
+103811,F,0,Undergraduate
+103812,M,0,Undergraduate
+103813,M,0,Graduate
+103814,M,0,High School
+103815,M,0,Graduate
+103816,F,0,Undergraduate
+103817,F,0,Graduate
+103818,F,0,Graduate
+103819,F,1,Undergraduate
+103820,M,0,Undergraduate
+103821,M,0,Undergraduate
+103822,M,0,Undergraduate
+103823,M,1,Undergraduate
+103824,F,0,Some College
+103825,F,0,Some College
+103826,F,0,High School
+103827,F,1,Undergraduate
+103828,M,0,Undergraduate
+103829,F,0,Undergraduate
+103830,M,0,Undergraduate
+103831,F,0,Some College
+103832,F,0,Undergraduate
+103833,M,0,Undergraduate
+103834,F,0,High School
+103835,F,0,Graduate
+103836,M,0,Undergraduate
+103837,M,0,High School
+103838,F,0,Undergraduate
+103839,M,0,Undergraduate
+103840,F,0,Some College
+103841,F,0,High School
+103842,F,0,Undergraduate
+103843,M,0,Undergraduate
+103844,F,0,Undergraduate
+103845,M,0,Undergraduate
+103846,M,0,PhD
+103847,F,0,Undergraduate
+103848,M,0,Undergraduate
+103849,M,0,Undergraduate
+103850,F,0,Undergraduate
+103851,M,0,Undergraduate
+103852,F,0,Undergraduate
+103853,F,0,Undergraduate
+103854,M,0,High School
+103855,M,0,Undergraduate
+103856,M,0,Undergraduate
+103857,F,0,Undergraduate
+103858,M,0,Some College
+103859,F,0,Undergraduate
+103860,M,0,High School
+103861,M,0,Undergraduate
+103862,M,0,Undergraduate
+103863,M,0,Graduate
+103864,M,0,High School
+103865,F,0,Undergraduate
+103866,M,0,Graduate
+103867,M,0,High School
+103868,F,0,Undergraduate
+103869,F,0,Undergraduate
+103870,M,0,Undergraduate
+103871,F,0,Undergraduate
+103872,M,0,Undergraduate
+103873,F,0,Undergraduate
+103874,M,0,Some College
+103875,F,1,Undergraduate
+103876,F,0,High School
+103877,M,0,High School
+103878,M,0,Undergraduate
+103879,M,0,Undergraduate
+103880,F,0,High School
+103881,F,1,Undergraduate
+103882,F,0,Graduate
+103883,M,0,Undergraduate
+103884,M,0,High School
+103885,F,0,Undergraduate
+103886,M,0,High School
+103887,F,0,High School
+103888,M,0,Undergraduate
+103889,M,0,Undergraduate
+103890,M,0,Some College
+103891,M,0,Undergraduate
+103892,F,0,High School
+103893,F,0,High School
+103894,F,0,Undergraduate
+103895,M,0,Graduate
+103896,M,0,Undergraduate
+103897,M,0,High School
+103898,M,0,PhD
+103899,F,0,Undergraduate
+103900,F,0,Undergraduate
+103901,M,0,Undergraduate
+103902,M,0,Undergraduate
+103903,M,0,High School
+103904,M,0,Undergraduate
+103905,M,0,Graduate
+103906,F,0,PhD
+103907,M,0,Undergraduate
+103908,F,0,Undergraduate
+103909,F,0,Undergraduate
+103910,F,0,Undergraduate
+103911,M,0,Undergraduate
+103912,F,0,Undergraduate
+103913,M,0,Undergraduate
+103914,F,0,Undergraduate
+103915,M,0,High School
+103916,F,0,Undergraduate
+103917,M,0,High School
+103918,M,0,Undergraduate
+103919,F,0,Undergraduate
+103920,M,0,Undergraduate
+103921,M,0,Undergraduate
+103922,F,0,Some College
+103923,M,0,Some College
+103924,M,0,Undergraduate
+103925,M,0,Undergraduate
+103926,M,0,Undergraduate
+103927,M,0,Undergraduate
+103928,F,0,Undergraduate
+103929,M,1,High School
+103930,F,0,Undergraduate
+103931,M,0,Undergraduate
+103932,M,0,Undergraduate
+103933,F,0,High School
+103934,M,0,Undergraduate
+103935,F,1,Undergraduate
+103936,F,1,Undergraduate
+103937,F,0,Undergraduate
+103938,F,0,Undergraduate
+103939,F,0,Undergraduate
+103940,F,0,Undergraduate
+103941,F,0,Undergraduate
+103942,F,0,Undergraduate
+103943,F,0,High School
+103944,M,0,Undergraduate
+103945,F,0,Undergraduate
+103946,M,0,Undergraduate
+103947,M,0,Undergraduate
+103948,F,0,Undergraduate
+103949,F,0,Undergraduate
+103950,F,0,Graduate
+103951,M,0,Undergraduate
+103952,F,0,High School
+103953,F,0,Graduate
+103954,F,0,Undergraduate
+103955,F,0,Undergraduate
+103956,F,0,Undergraduate
+103957,M,0,Some College
+103958,M,0,Undergraduate
+103959,F,0,Undergraduate
+103960,M,1,Undergraduate
+103961,F,0,Undergraduate
+103962,F,0,Graduate
+103963,M,0,Some College
+103964,F,0,Undergraduate
+103965,M,0,Undergraduate
+103966,M,0,Undergraduate
+103967,F,0,Undergraduate
+103968,M,0,Undergraduate
+103969,M,0,Some College
+103970,M,0,Undergraduate
+103971,F,0,Some College
+103972,M,0,Undergraduate
+103973,M,0,Undergraduate
+103974,F,0,Undergraduate
+103975,F,0,Undergraduate
+103976,M,0,High School
+103977,M,0,Undergraduate
+103978,F,0,High School
+103979,F,0,High School
+103980,F,0,High School
+103981,M,0,Undergraduate
+103982,M,0,Graduate
+103983,M,0,Undergraduate
+103984,F,0,Undergraduate
+103985,F,0,High School
+103986,F,0,Undergraduate
+103987,M,0,Undergraduate
+103988,M,0,High School
+103989,F,0,Undergraduate
+103990,M,0,High School
+103991,M,0,Some College
+103992,M,0,Undergraduate
+103993,M,0,Undergraduate
+103994,F,0,Undergraduate
+103995,F,0,Undergraduate
+103996,M,0,Undergraduate
+103997,M,0,Undergraduate
+103998,M,0,Undergraduate
+103999,F,0,Undergraduate
+104000,M,0,Undergraduate
+104001,F,0,Undergraduate
+104002,F,0,Undergraduate
+104003,F,0,Undergraduate
+104004,M,0,Undergraduate
+104005,M,0,Undergraduate
+104006,M,0,Undergraduate
+104007,F,0,Undergraduate
+104008,F,0,High School
+104009,M,0,Undergraduate
+104010,M,0,Undergraduate
+104011,F,0,Undergraduate
+104012,M,0,Undergraduate
+104013,F,0,Undergraduate
+104014,M,0,Undergraduate
+104015,M,1,Undergraduate
+104016,M,0,Undergraduate
+104017,M,0,Undergraduate
+104018,F,0,Undergraduate
+104019,F,0,Undergraduate
+104020,M,0,High School
+104021,F,0,Some College
+104022,M,0,Undergraduate
+104023,M,0,Some College
+104024,M,0,Undergraduate
+104025,F,0,Undergraduate
+104026,M,0,High School
+104027,F,0,Undergraduate
+104028,F,0,Undergraduate
+104029,F,0,Undergraduate
+104030,M,0,Undergraduate
+104031,M,0,Undergraduate
+104032,M,0,Some College
+104033,M,0,High School
+104034,M,0,Undergraduate
+104035,F,0,Some College
+104036,F,0,Undergraduate
+104037,M,0,Undergraduate
+104038,F,0,Undergraduate
+104039,F,0,Undergraduate
+104040,M,0,Undergraduate
+104041,M,0,Undergraduate
+104042,M,0,Undergraduate
+104043,M,0,Graduate
+104044,M,0,Undergraduate
+104045,F,0,Undergraduate
+104046,F,0,Undergraduate
+104047,F,0,High School
+104048,M,0,High School
+104049,F,0,Undergraduate
+104050,M,0,Undergraduate
+104051,F,0,Some College
+104052,F,0,Undergraduate
+104053,M,0,Undergraduate
+104054,F,0,Undergraduate
+104055,F,0,Undergraduate
+104056,M,0,High School
+104057,F,0,Undergraduate
+104058,M,0,Undergraduate
+104059,F,0,High School
+104060,F,0,Some College
+104061,M,0,High School
+104062,M,0,High School
+104063,M,0,PhD
+104064,F,0,Undergraduate
+104065,F,0,Undergraduate
+104066,M,0,High School
+104067,F,0,Undergraduate
+104068,F,0,High School
+104069,M,0,Undergraduate
+104070,M,0,Undergraduate
+104071,F,0,Undergraduate
+104072,M,0,Undergraduate
+104073,M,0,Undergraduate
+104074,F,0,Undergraduate
+104075,M,0,Undergraduate
+104076,M,0,Graduate
+104077,F,0,High School
+104078,F,0,Undergraduate
+104079,F,0,Undergraduate
+104080,M,0,Undergraduate
+104081,F,0,Undergraduate
+104082,M,0,Undergraduate
+104083,M,0,Graduate
+104084,F,0,Undergraduate
+104085,F,0,Undergraduate
+104086,M,0,Some College
+104087,M,0,Undergraduate
+104088,F,0,PhD
+104089,M,0,Undergraduate
+104090,M,0,Undergraduate
+104091,M,0,Undergraduate
+104092,M,0,High School
+104093,M,0,Undergraduate
+104094,F,0,Undergraduate
+104095,F,0,Undergraduate
+104096,F,0,High School
+104097,F,0,Undergraduate
+104098,F,0,High School
+104099,F,0,High School
+104100,F,0,Undergraduate
+104101,F,0,Undergraduate
+104102,F,0,Graduate
+104103,M,0,Undergraduate
+104104,M,1,Graduate
+104105,F,0,Graduate
+104106,F,0,Undergraduate
+104107,F,0,Undergraduate
+104108,F,0,High School
+104109,F,0,Undergraduate
+104110,F,0,Undergraduate
+104111,F,0,Undergraduate
+104112,F,0,PhD
+104113,F,0,Undergraduate
+104114,M,0,Undergraduate
+104115,M,0,Undergraduate
+104116,M,0,Undergraduate
+104117,F,0,High School
+104118,M,0,Some College
+104119,M,1,High School
+104120,M,0,Undergraduate
+104121,M,0,Some College
+104122,M,0,Undergraduate
+104123,M,0,Undergraduate
+104124,M,0,Undergraduate
+104125,M,0,High School
+104126,F,0,Some College
+104127,F,0,Undergraduate
+104128,M,0,Graduate
+104129,F,0,Undergraduate
+104130,M,0,High School
+104131,M,0,Undergraduate
+104132,M,0,Some College
+104133,M,0,Undergraduate
+104134,M,0,Undergraduate
+104135,M,0,Some College
+104136,M,0,Undergraduate
+104137,M,0,Undergraduate
+104138,M,0,Graduate
+104139,M,0,Undergraduate
+104140,M,0,High School
+104141,F,0,Undergraduate
+104142,F,0,Undergraduate
+104143,M,0,Undergraduate
+104144,F,0,Undergraduate
+104145,F,0,Undergraduate
+104146,F,1,Undergraduate
+104147,M,0,Graduate
+104148,M,0,High School
+104149,F,0,High School
+104150,M,0,Some College
+104151,F,0,High School
+104152,M,0,Undergraduate
+104153,F,0,Undergraduate
+104154,F,0,High School
+104155,F,0,Undergraduate
+104156,M,0,Some College
+104157,F,0,Some College
+104158,F,0,PhD
+104159,F,0,Undergraduate
+104160,M,0,High School
+104161,M,0,Some College
+104162,M,0,Graduate
+104163,F,0,High School
+104164,F,0,High School
+104165,M,0,Undergraduate
+104166,M,0,Undergraduate
+104167,F,0,Undergraduate
+104168,M,0,Undergraduate
+104169,F,0,High School
+104170,F,0,Undergraduate
+104171,F,0,Undergraduate
+104172,M,0,Undergraduate
+104173,F,0,High School
+104174,F,0,High School
+104175,M,0,Undergraduate
+104176,F,0,High School
+104177,F,0,Undergraduate
+104178,M,0,High School
+104179,F,0,Undergraduate
+104180,F,0,Undergraduate
+104181,F,0,Undergraduate
+104182,F,0,Undergraduate
+104183,M,0,Some College
+104184,F,0,Undergraduate
+104185,M,0,PhD
+104186,M,0,Undergraduate
+104187,F,0,Undergraduate
+104188,F,0,Undergraduate
+104189,M,0,Undergraduate
+104190,F,0,Undergraduate
+104191,M,0,Undergraduate
+104192,F,0,Undergraduate
+104193,F,0,Undergraduate
+104194,M,0,Undergraduate
+104195,F,0,PhD
+104196,F,0,Undergraduate
+104197,F,0,PhD
+104198,M,0,Undergraduate
+104199,F,0,High School
+104200,F,0,Some College
+104201,F,0,Undergraduate
+104202,M,0,High School
+104203,F,0,Graduate
+104204,F,0,Undergraduate
+104205,F,0,Undergraduate
+104206,M,0,Undergraduate
+104207,M,0,Graduate
+104208,F,0,Undergraduate
+104209,M,0,Graduate
+104210,M,0,Some College
+104211,F,0,Undergraduate
+104212,M,0,Undergraduate
+104213,M,0,High School
+104214,M,0,High School
+104215,F,0,Undergraduate
+104216,F,0,High School
+104217,M,0,Undergraduate
+104218,M,0,High School
+104219,M,0,Undergraduate
+104220,M,0,Undergraduate
+104221,M,0,High School
+104222,F,0,Some College
+104223,F,0,High School
+104224,M,0,Undergraduate
+104225,M,0,Undergraduate
+104226,F,0,Undergraduate
+104227,F,0,PhD
+104228,M,0,Undergraduate
+104229,M,0,Undergraduate
+104230,F,0,Undergraduate
+104231,F,0,Undergraduate
+104232,F,0,Undergraduate
+104233,F,0,Undergraduate
+104234,F,0,Undergraduate
+104235,F,0,Undergraduate
+104236,M,0,Undergraduate
+104237,M,0,Undergraduate
+104238,M,1,PhD
+104239,M,0,Undergraduate
+104240,F,0,Undergraduate
+104241,M,0,Undergraduate
+104242,F,0,Undergraduate
+104243,M,0,Undergraduate
+104244,M,0,Some College
+104245,M,0,High School
+104246,F,0,Undergraduate
+104247,M,0,Undergraduate
+104248,M,0,PhD
+104249,M,0,Undergraduate
+104250,F,0,Undergraduate
+104251,M,0,High School
+104252,M,0,PhD
+104253,M,0,Undergraduate
+104254,F,0,Undergraduate
+104255,F,0,Undergraduate
+104256,M,0,Undergraduate
+104257,M,0,Graduate
+104258,F,0,Undergraduate
+104259,F,0,High School
+104260,F,0,Undergraduate
+104261,F,0,Undergraduate
+104262,M,0,Undergraduate
+104263,F,0,Graduate
+104264,F,0,Undergraduate
+104265,M,0,Undergraduate
+104266,M,0,Undergraduate
+104267,M,0,Undergraduate
+104268,M,0,High School
+104269,F,0,Undergraduate
+104270,F,0,High School
+104271,M,0,Undergraduate
+104272,M,0,Undergraduate
+104273,M,0,Undergraduate
+104274,M,0,Undergraduate
+104275,M,0,Some College
+104276,F,0,Undergraduate
+104277,F,0,Undergraduate
+104278,F,0,Undergraduate
+104279,M,0,Undergraduate
+104280,M,0,Undergraduate
+104281,F,0,Graduate
+104282,F,0,PhD
+104283,M,0,Some College
+104284,M,0,Undergraduate
+104285,M,0,Some College
+104286,M,0,Undergraduate
+104287,M,0,Undergraduate
+104288,F,0,Graduate
+104289,M,1,Undergraduate
+104290,F,0,Undergraduate
+104291,F,0,Undergraduate
+104292,F,0,Undergraduate
+104293,F,0,High School
+104294,M,0,Undergraduate
+104295,F,0,Undergraduate
+104296,M,0,Graduate
+104297,F,0,Undergraduate
+104298,M,0,Undergraduate
+104299,F,0,High School
+104300,F,0,Undergraduate
+104301,F,0,Graduate
+104302,F,0,Graduate
+104303,M,0,High School
+104304,M,0,Undergraduate
+104305,M,0,Some College
+104306,M,0,Graduate
+104307,F,0,Undergraduate
+104308,M,0,Undergraduate
+104309,M,0,Undergraduate
+104310,F,0,Undergraduate
+104311,F,0,Undergraduate
+104312,F,0,Undergraduate
+104313,F,0,Undergraduate
+104314,F,0,High School
+104315,M,0,Undergraduate
+104316,F,0,Undergraduate
+104317,F,0,Undergraduate
+104318,M,0,Undergraduate
+104319,M,0,Undergraduate
+104320,F,0,High School
+104321,F,0,Undergraduate
+104322,M,0,Undergraduate
+104323,F,0,Undergraduate
+104324,F,0,High School
+104325,F,0,Undergraduate
+104326,F,0,Undergraduate
+104327,F,0,Undergraduate
+104328,F,0,Some College
+104329,F,0,Undergraduate
+104330,M,0,Some College
+104331,F,0,High School
+104332,F,0,Undergraduate
+104333,F,0,High School
+104334,M,0,Undergraduate
+104335,F,0,Undergraduate
+104336,M,0,High School
+104337,M,0,Undergraduate
+104338,M,0,PhD
+104339,F,0,Undergraduate
+104340,M,0,High School
+104341,F,0,Undergraduate
+104342,M,0,Undergraduate
+104343,M,0,Undergraduate
+104344,F,0,High School
+104345,M,0,Undergraduate
+104346,M,0,Undergraduate
+104347,F,0,Undergraduate
+104348,F,0,Undergraduate
+104349,F,0,Undergraduate
+104350,F,0,Some College
+104351,M,0,Undergraduate
+104352,F,0,Undergraduate
+104353,F,0,High School
+104354,F,0,Undergraduate
+104355,F,0,Undergraduate
+104356,M,0,Undergraduate
+104357,M,0,High School
+104358,F,0,High School
+104359,F,0,Undergraduate
+104360,M,0,Undergraduate
+104361,M,0,Some College
+104362,F,0,Some College
+104363,F,0,High School
+104364,M,0,Undergraduate
+104365,F,0,Undergraduate
+104366,M,0,Undergraduate
+104367,M,0,High School
+104368,F,0,Undergraduate
+104369,M,0,Undergraduate
+104370,F,1,Graduate
+104371,F,0,Graduate
+104372,M,0,Undergraduate
+104373,M,0,High School
+104374,M,0,Undergraduate
+104375,F,0,High School
+104376,M,0,Undergraduate
+104377,M,0,Undergraduate
+104378,M,0,Undergraduate
+104379,M,0,Undergraduate
+104380,M,0,Undergraduate
+104381,M,0,Undergraduate
+104382,M,0,Undergraduate
+104383,M,0,Undergraduate
+104384,M,0,Undergraduate
+104385,M,0,High School
+104386,F,0,Undergraduate
+104387,M,0,High School
+104388,M,0,Undergraduate
+104389,F,0,Graduate
+104390,F,0,Undergraduate
+104391,F,0,High School
+104392,F,0,High School
+104393,M,0,High School
+104394,M,0,Undergraduate
+104395,F,0,Graduate
+104396,F,0,Undergraduate
+104397,M,0,Undergraduate
+104398,F,0,Undergraduate
+104399,M,0,High School
+104400,F,0,Undergraduate
+104401,F,0,Undergraduate
+104402,M,0,High School
+104403,F,0,Graduate
+104404,M,0,Undergraduate
+104405,M,0,Undergraduate
+104406,F,0,Some College
+104407,M,0,Undergraduate
+104408,M,0,Undergraduate
+104409,M,0,High School
+104410,F,0,Undergraduate
+104411,M,0,Undergraduate
+104412,M,0,High School
+104413,F,0,Undergraduate
+104414,F,0,Undergraduate
+104415,F,0,Undergraduate
+104416,M,0,Undergraduate
+104417,M,0,Graduate
+104418,M,0,Undergraduate
+104419,F,0,Graduate
+104420,M,0,Undergraduate
+104421,F,0,Graduate
+104422,F,0,High School
+104423,M,0,Undergraduate
+104424,F,0,Undergraduate
+104425,M,1,Graduate
+104426,M,0,Undergraduate
+104427,M,0,Undergraduate
+104428,F,0,Undergraduate
+104429,F,0,High School
+104430,M,0,Graduate
+104431,M,0,Undergraduate
+104432,F,0,Undergraduate
+104433,F,0,Some College
+104434,F,0,High School
+104435,M,0,Undergraduate
+104436,F,0,Undergraduate
+104437,M,0,Undergraduate
+104438,M,0,Undergraduate
+104439,F,0,Undergraduate
+104440,M,0,Undergraduate
+104441,M,0,Undergraduate
+104442,M,0,Undergraduate
+104443,M,0,High School
+104444,M,0,PhD
+104445,M,0,High School
+104446,M,0,Undergraduate
+104447,M,0,Undergraduate
+104448,F,0,Undergraduate
+104449,M,0,Undergraduate
+104450,F,0,Undergraduate
+104451,M,0,Undergraduate
+104452,M,0,Some College
+104453,F,0,Undergraduate
+104454,M,0,Some College
+104455,F,0,High School
+104456,F,0,Undergraduate
+104457,F,0,Undergraduate
+104458,F,1,High School
+104459,M,0,Graduate
+104460,M,0,Undergraduate
+104461,F,0,Graduate
+104462,M,0,Undergraduate
+104463,M,0,Undergraduate
+104464,F,0,Undergraduate
+104465,F,0,High School
+104466,F,0,Undergraduate
+104467,M,0,Undergraduate
+104468,F,0,Undergraduate
+104469,F,0,Undergraduate
+104470,M,0,Undergraduate
+104471,F,0,Graduate
+104472,F,0,High School
+104473,M,0,Undergraduate
+104474,M,0,Undergraduate
+104475,F,0,Undergraduate
+104476,M,0,Undergraduate
+104477,F,0,High School
+104478,F,0,Undergraduate
+104479,F,0,High School
+104480,F,0,Undergraduate
+104481,M,0,Undergraduate
+104482,M,0,Some College
+104483,M,0,Undergraduate
+104484,M,0,Undergraduate
+104485,M,0,Undergraduate
+104486,F,0,Some College
+104487,F,0,PhD
+104488,F,0,Graduate
+104489,M,0,Undergraduate
+104490,M,0,Some College
+104491,M,0,Undergraduate
+104492,M,0,Undergraduate
+104493,M,0,Undergraduate
+104494,F,0,Undergraduate
+104495,M,0,Undergraduate
+104496,F,1,High School
+104497,F,0,PhD
+104498,M,0,High School
+104499,M,0,Undergraduate
+104500,M,0,Undergraduate
+104501,F,0,Undergraduate
+104502,F,0,Graduate
+104503,M,0,Undergraduate
+104504,M,0,Undergraduate
+104505,F,0,High School
+104506,F,0,Undergraduate
+104507,F,0,Undergraduate
+104508,M,1,Some College
+104509,F,0,High School
+104510,F,0,Graduate
+104511,M,0,Undergraduate
+104512,F,0,Undergraduate
+104513,M,0,Undergraduate
+104514,M,0,High School
+104515,F,0,Graduate
+104516,M,0,High School
+104517,M,0,Undergraduate
+104518,M,0,Undergraduate
+104519,F,0,Undergraduate
+104520,M,0,PhD
+104521,F,0,High School
+104522,M,0,Undergraduate
+104523,F,0,Undergraduate
+104524,M,0,Undergraduate
+104525,F,0,Undergraduate
+104526,M,0,Undergraduate
+104527,M,0,Undergraduate
+104528,M,0,Undergraduate
+104529,M,0,Undergraduate
+104530,F,0,Undergraduate
+104531,M,0,Undergraduate
+104532,M,0,Undergraduate
+104533,M,0,Undergraduate
+104534,M,0,Undergraduate
+104535,M,0,Undergraduate
+104536,F,0,Undergraduate
+104537,M,0,Graduate
+104538,M,0,Undergraduate
+104539,F,0,Undergraduate
+104540,F,1,Undergraduate
+104541,M,0,Undergraduate
+104542,M,0,Graduate
+104543,F,0,Undergraduate
+104544,F,0,Undergraduate
+104545,M,0,Undergraduate
+104546,F,0,Graduate
+104547,F,0,Undergraduate
+104548,F,0,Undergraduate
+104549,F,0,Undergraduate
+104550,F,0,Undergraduate
+104551,M,0,Undergraduate
+104552,M,0,Some College
+104553,M,0,High School
+104554,F,0,Undergraduate
+104555,F,0,Undergraduate
+104556,M,0,Undergraduate
+104557,F,0,Undergraduate
+104558,F,0,Undergraduate
+104559,F,0,PhD
+104560,F,0,Undergraduate
+104561,F,0,Undergraduate
+104562,F,0,Undergraduate
+104563,F,0,Undergraduate
+104564,M,0,Undergraduate
+104565,M,0,Undergraduate
+104566,M,0,Undergraduate
+104567,M,0,Undergraduate
+104568,F,0,Undergraduate
+104569,F,0,Undergraduate
+104570,M,0,Undergraduate
+104571,F,0,Undergraduate
+104572,M,0,Undergraduate
+104573,M,0,Undergraduate
+104574,F,0,Undergraduate
+104575,M,0,Undergraduate
+104576,M,0,Undergraduate
+104577,M,0,Undergraduate
+104578,F,0,Graduate
+104579,M,0,PhD
+104580,F,0,Graduate
+104581,F,0,Undergraduate
+104582,M,0,Undergraduate
+104583,F,0,Undergraduate
+104584,M,0,Some College
+104585,M,0,Undergraduate
+104586,M,0,Undergraduate
+104587,M,0,PhD
+104588,M,0,PhD
+104589,M,0,Undergraduate
+104590,M,0,Undergraduate
+104591,M,0,Undergraduate
+104592,F,0,Undergraduate
+104593,F,0,Undergraduate
+104594,M,0,Undergraduate
+104595,M,0,Undergraduate
+104596,M,0,Undergraduate
+104597,M,0,Undergraduate
+104598,F,0,Undergraduate
+104599,F,0,Undergraduate
+104600,M,0,Undergraduate
+104601,F,0,Undergraduate
+104602,M,0,Undergraduate
+104603,M,1,Undergraduate
+104604,F,0,Undergraduate
+104605,F,0,Undergraduate
+104606,M,0,Undergraduate
+104607,M,1,Undergraduate
+104608,M,0,Some College
+104609,F,0,Undergraduate
+104610,F,0,Undergraduate
+104611,F,0,High School
+104612,F,0,Some College
+104613,F,0,Undergraduate
+104614,M,0,Some College
+104615,M,0,Undergraduate
+104616,F,0,Undergraduate
+104617,M,0,Undergraduate
+104618,F,0,Undergraduate
+104619,F,0,High School
+104620,M,0,High School
+104621,M,0,Undergraduate
+104622,F,0,High School
+104623,M,0,Undergraduate
+104624,F,0,Undergraduate
+104625,F,0,Some College
+104626,M,0,Undergraduate
+104627,M,0,Undergraduate
+104628,F,0,Undergraduate
+104629,M,0,Undergraduate
+104630,M,0,Undergraduate
+104631,F,0,High School
+104632,F,0,Graduate
+104633,F,0,PhD
+104634,F,0,Some College
+104635,M,0,Undergraduate
+104636,F,0,Undergraduate
+104637,M,0,Undergraduate
+104638,F,0,Undergraduate
+104639,F,0,Undergraduate
+104640,F,0,Undergraduate
+104641,M,0,Undergraduate
+104642,F,0,Undergraduate
+104643,M,0,Undergraduate
+104644,M,0,Undergraduate
+104645,F,1,Undergraduate
+104646,F,0,Undergraduate
+104647,M,0,Undergraduate
+104648,M,0,Undergraduate
+104649,F,0,Undergraduate
+104650,F,0,Undergraduate
+104651,F,0,Graduate
+104652,M,0,Undergraduate
+104653,M,0,Undergraduate
+104654,M,0,Undergraduate
+104655,F,0,Undergraduate
+104656,M,0,Undergraduate
+104657,F,0,High School
+104658,M,0,Undergraduate
+104659,F,0,Undergraduate
+104660,F,0,Undergraduate
+104661,F,0,Undergraduate
+104662,F,0,Undergraduate
+104663,M,1,Undergraduate
+104664,M,0,Undergraduate
+104665,M,0,Some College
+104666,F,0,Undergraduate
+104667,M,0,Undergraduate
+104668,F,0,Undergraduate
+104669,F,0,Undergraduate
+104670,F,0,Undergraduate
+104671,F,0,Undergraduate
+104672,F,0,High School
+104673,F,0,Undergraduate
+104674,M,0,Graduate
+104675,M,0,Undergraduate
+104676,F,0,Undergraduate
+104677,M,0,Undergraduate
+104678,F,0,Undergraduate
+104679,M,0,Undergraduate
+104680,M,0,Undergraduate
+104681,M,0,Graduate
+104682,M,0,Undergraduate
+104683,M,0,Undergraduate
+104684,F,0,Undergraduate
+104685,F,0,Undergraduate
+104686,F,0,Undergraduate
+104687,M,0,PhD
+104688,M,0,Undergraduate
+104689,M,0,Undergraduate
+104690,M,0,Graduate
+104691,F,0,Undergraduate
+104692,M,0,Undergraduate
+104693,M,0,Undergraduate
+104694,M,0,Undergraduate
+104695,M,0,Undergraduate
+104696,M,0,Some College
+104697,F,0,Undergraduate
+104698,M,0,Undergraduate
+104699,M,1,PhD
+104700,M,0,Undergraduate
+104701,M,0,Undergraduate
+104702,F,0,Undergraduate
+104703,M,0,Undergraduate
+104704,F,0,Undergraduate
+104705,M,0,Undergraduate
+104706,M,0,Undergraduate
+104707,M,0,Undergraduate
+104708,M,0,Undergraduate
+104709,F,0,Graduate
+104710,F,0,High School
+104711,M,0,Undergraduate
+104712,F,0,Undergraduate
+104713,F,0,Some College
+104714,F,0,Undergraduate
+104715,M,0,Undergraduate
+104716,F,0,Undergraduate
+104717,F,1,Undergraduate
+104718,F,0,Graduate
+104719,M,0,PhD
+104720,M,0,Undergraduate
+104721,F,0,Undergraduate
+104722,F,0,Undergraduate
+104723,M,0,High School
+104724,M,0,Some College
+104725,M,0,Undergraduate
+104726,M,0,Undergraduate
+104727,M,0,Undergraduate
+104728,F,0,Undergraduate
+104729,M,0,Undergraduate
+104730,M,0,Undergraduate
+104731,F,0,Undergraduate
+104732,F,0,Undergraduate
+104733,F,0,Undergraduate
+104734,F,0,Undergraduate
+104735,M,0,Undergraduate
+104736,F,0,Undergraduate
+104737,F,0,Undergraduate
+104738,M,0,Undergraduate
+104739,F,0,Undergraduate
+104740,M,0,High School
+104741,F,0,Undergraduate
+104742,M,0,Undergraduate
+104743,F,0,Undergraduate
+104744,F,0,Undergraduate
+104745,F,0,Undergraduate
+104746,M,0,Undergraduate
+104747,F,0,PhD
+104748,F,1,Undergraduate
+104749,F,0,Undergraduate
+104750,M,0,Undergraduate
+104751,F,0,Undergraduate
+104752,F,0,Undergraduate
+104753,M,0,Undergraduate
+104754,F,0,Undergraduate
+104755,M,0,Undergraduate
+104756,F,0,Undergraduate
+104757,F,0,Undergraduate
+104758,F,0,Undergraduate
+104759,M,0,Graduate
+104760,M,0,Undergraduate
+104761,F,0,Undergraduate
+104762,M,0,Undergraduate
+104763,M,0,Undergraduate
+104764,M,0,Undergraduate
+104765,F,0,Some College
+104766,M,0,Undergraduate
+104767,M,0,Undergraduate
+104768,M,0,Undergraduate
+104769,F,0,Undergraduate
+104770,F,0,Undergraduate
+104771,F,0,PhD
+104772,F,0,Graduate
+104773,F,0,Graduate
+104774,F,0,Undergraduate
+104775,M,0,Graduate
+104776,F,0,High School
+104777,F,0,Undergraduate
+104778,F,0,Undergraduate
+104779,M,0,High School
+104780,M,0,PhD
+104781,F,1,Some College
+104782,F,0,Undergraduate
+104783,M,0,Undergraduate
+104784,F,0,Undergraduate
+104785,F,0,Undergraduate
+104786,M,0,Undergraduate
+104787,M,0,Undergraduate
+104788,M,0,Undergraduate
+104789,M,0,Some College
+104790,M,0,Undergraduate
+104791,M,0,Undergraduate
+104792,M,0,Undergraduate
+104793,F,0,Undergraduate
+104794,F,0,Undergraduate
+104795,M,0,Undergraduate
+104796,M,0,Undergraduate
+104797,F,0,Graduate
+104798,M,0,Undergraduate
+104799,F,0,Undergraduate
+104800,F,0,Undergraduate
+104801,M,0,Undergraduate
+104802,M,0,Undergraduate
+104803,F,0,Graduate
+104804,F,0,Undergraduate
+104805,F,0,Undergraduate
+104806,M,1,Undergraduate
+104807,M,0,Graduate
+104808,M,0,Undergraduate
+104809,M,0,Undergraduate
+104810,M,0,Undergraduate
+104811,F,0,Undergraduate
+104812,M,0,Undergraduate
+104813,F,1,Graduate
+104814,F,0,PhD
+104815,M,0,Undergraduate
+104816,F,1,Undergraduate
+104817,F,1,Undergraduate
+104818,F,0,High School
+104819,F,0,Undergraduate
+104820,F,0,Undergraduate
+104821,M,0,Undergraduate
+104822,F,0,Undergraduate
+104823,M,0,Undergraduate
+104824,M,0,Undergraduate
+104825,F,0,Undergraduate
+104826,F,0,Undergraduate
+104827,M,0,Undergraduate
+104828,F,0,Undergraduate
+104829,M,0,Undergraduate
+104830,M,0,Undergraduate
+104831,F,0,Undergraduate
+104832,M,0,Undergraduate
+104833,M,0,Undergraduate
+104834,F,0,Graduate
+104835,M,0,Undergraduate
+104836,M,0,Undergraduate
+104837,M,1,Undergraduate
+104838,F,0,Undergraduate
+104839,F,0,Undergraduate
+104840,F,0,Undergraduate
+104841,M,0,Undergraduate
+104842,M,0,Undergraduate
+104843,M,0,Undergraduate
+104844,M,0,Undergraduate
+104845,M,0,Undergraduate
+104846,F,0,Undergraduate
+104847,F,0,High School
+104848,F,0,Undergraduate
+104849,M,0,Undergraduate
+104850,F,0,Undergraduate
+104851,M,0,Undergraduate
+104852,M,0,Undergraduate
+104853,M,0,Undergraduate
+104854,M,0,Undergraduate
+104855,F,0,Undergraduate
+104856,F,0,Undergraduate
+104857,F,0,Undergraduate
+104858,F,0,Some College
+104859,M,0,Undergraduate
+104860,F,0,PhD
+104861,F,0,Undergraduate
+104862,F,0,Undergraduate
+104863,M,0,Undergraduate
+104864,M,0,Graduate
+104865,M,0,Undergraduate
+104866,M,0,Undergraduate
+104867,F,0,Undergraduate
+104868,F,0,Undergraduate
+104869,M,0,Undergraduate
+104870,M,0,Undergraduate
+104871,F,0,Undergraduate
+104872,M,1,Undergraduate
+104873,F,0,Undergraduate
+104874,M,0,Graduate
+104875,F,0,Undergraduate
+104876,M,0,Some College
+104877,F,0,Undergraduate
+104878,M,0,Undergraduate
+104879,M,0,Undergraduate
+104880,M,0,Undergraduate
+104881,F,0,Undergraduate
+104882,M,0,Undergraduate
+104883,M,0,Undergraduate
+104884,M,0,Undergraduate
+104885,M,0,Undergraduate
+104886,M,0,Undergraduate
+104887,M,0,Undergraduate
+104888,F,0,Some College
+104889,M,0,Undergraduate
+104890,F,0,PhD
+104891,F,0,Undergraduate
+104892,F,0,Undergraduate
+104893,M,0,Undergraduate
+104894,F,1,Graduate
+104895,M,0,Undergraduate
+104896,F,0,Undergraduate
+104897,F,0,Undergraduate
+104898,M,0,Undergraduate
+104899,M,0,Undergraduate
+104900,F,0,PhD
+104901,F,0,Graduate
+104902,F,0,Undergraduate
+104903,F,0,Undergraduate
+104904,M,0,Undergraduate
+104905,M,0,PhD
+104906,F,0,Undergraduate
+104907,M,1,Undergraduate
+104908,M,0,Undergraduate
+104909,F,0,Graduate
+104910,M,1,High School
+104911,F,1,Undergraduate
+104912,F,0,Undergraduate
+104913,F,0,Undergraduate
+104914,M,0,Undergraduate
+104915,F,0,Undergraduate
+104916,M,0,Undergraduate
+104917,M,0,Undergraduate
+104918,F,0,Undergraduate
+104919,F,0,Undergraduate
+104920,F,0,Undergraduate
+104921,M,0,Undergraduate
+104922,M,0,Undergraduate
+104923,M,0,Some College
+104924,F,1,Some College
+104925,M,0,Undergraduate
+104926,M,0,Undergraduate
+104927,F,0,Undergraduate
+104928,F,0,Undergraduate
+104929,F,1,Graduate
+104930,M,0,Undergraduate
+104931,M,0,Undergraduate
+104932,F,0,Undergraduate
+104933,F,0,Some College
+104934,F,0,Undergraduate
+104935,F,0,Undergraduate
+104936,M,0,Undergraduate
+104937,M,0,Some College
+104938,M,0,Undergraduate
+104939,M,0,Undergraduate
+104940,M,0,Graduate
+104941,F,0,Some College
+104942,M,0,Undergraduate
+104943,M,0,Undergraduate
+104944,F,0,Graduate
+104945,F,0,Undergraduate
+104946,F,0,High School
+104947,F,0,Undergraduate
+104948,F,0,Undergraduate
+104949,M,0,Undergraduate
+104950,M,0,Undergraduate
+104951,M,1,Undergraduate
+104952,F,0,Graduate
+104953,F,0,Undergraduate
+104954,M,1,PhD
+104955,M,0,Undergraduate
+104956,F,0,Undergraduate
+104957,M,0,Undergraduate
+104958,F,0,Undergraduate
+104959,F,0,Undergraduate
+104960,F,0,Undergraduate
+104961,F,0,Undergraduate
+104962,M,0,Undergraduate
+104963,F,0,Graduate
+104964,M,0,Undergraduate
+104965,F,0,Undergraduate
+104966,M,0,Undergraduate
+104967,M,0,Undergraduate
+104968,F,0,Some College
