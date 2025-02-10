@@ -41,20 +41,6 @@ The project includes SQL queries to answer key business questions, such as:
 - 📑 **Query Results**: Stored in an **Excel file** (`.xlsx`).  
 - 🎤 **Presentation**: PowerPoint/PDF summarizing key insights.  
 
-## 📢 **How to Run the Project**  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/Capstone2-EmployeeData.git
-   cd Capstone2-EmployeeData
-   ```
-2. Install required Python libraries:  
-   ```bash
-   pip install pandas numpy matplotlib seaborn jupyter
-   ```
-3. Open the Jupyter Notebook and run the data preparation steps.  
-4. Execute the SQL scripts (`schema.sql` & `queries.sql`) in a SQL environment (e.g., HeidiSQL, MySQL Workbench).  
-5. Analyze results in the provided Excel file.  
-
 
 ![Screenshot 2025-02-10 152902](https://github.com/user-attachments/assets/26e2c6ae-91ce-4714-85b5-f281d25ca515)
 
