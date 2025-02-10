@@ -1,4 +1,4 @@
-Employee Data Analysis & Management for DataTech Solutions**  
+Employee Data Analysis & Management for DataTech Solutions
 
 ## 📌 **Project Overview**  
 This project is part of the **Data Analyst Bootcamp (LePont, 2024)**. The goal is to analyze and secure multiple datasets related to employees of **DataTech Solutions**, a U.S.-based company. The analysis involves data cleaning, transformation, database creation, and SQL queries to extract key insights.  
